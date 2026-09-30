@@ -1,0 +1,70 @@
+import pandas as pd
+
+teams = { 
+  "teams_id": [
+    "ATL", "BOS", "BKN", "CHA", "CHI",
+    "CLE", "DAL", "DEN", "DET", import pandas as pd
+
+# Create a consistent identifier for each NBA team
+teams = {
+    "team_id": [
+        "ATL", "BOS", "BKN", "CHA", "CHI",
+        "CLE", "DAL", "DEN", "DET", "GSW",
+        "HOU", "IND", "LAC", "LAL", "MEM",
+        "MIA", "MIL", "MIN", "NOP", "NYK",
+        "OKC", "ORL", "PHI", "PHX", "POR",
+        "SAC", "SAS", "TOR", "UTA", "WAS"
+    ],
+
+    "team_name": [
+        "Atlanta Hawks",
+        "Boston Celtics",
+        "Brooklyn Nets",
+        "Charlotte Hornets",
+        "Chicago Bulls",
+        "Cleveland Cavaliers",
+        "Dallas Mavericks",
+        "Denver Nuggets",
+        "Detroit Pistons",
+        "Golden State Warriors",
+        "Houston Rockets",
+        "Indiana Pacers",
+        "Los Angeles Clippers",
+        "Los Angeles Lakers",
+        "Memphis Grizzlies",
+        "Miami Heat",
+        "Milwaukee Bucks",
+        "Minnesota Timberwolves",
+        "New Orleans Pelicans",
+        "New York Knicks",
+        "Oklahoma City Thunder",
+        "Orlando Magic",
+        "Philadelphia 76ers",
+        "Phoenix Suns",
+        "Portland Trail Blazers",
+        "Sacramento Kings",
+        "San Antonio Spurs",
+        "Toronto Raptors",
+        "Utah Jazz",
+        "Washington Wizards"
+    ]
+}
+
+# Convert the dictionary into a DataFrame
+teams_df = pd.DataFrame(teams)
+
+# Check the data
+print(teams_df)
+print(f"\nNumber of teams: {len(teams_df)}")
+
+# Make sure there are exactly 30 teams
+assert len(teams_df) == 30, "There should be exactly 30 NBA teams."
+
+# Make sure every team ID is unique
+assert teams_df["team_id"].is_unique, "Team IDs must be unique."
+
+# Save the file
+teams_df.to_csv("data/raw/teams.csv", index=False)
+
+print("\nSaved successfully to data/raw/teams.csv")
+
