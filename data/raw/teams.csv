@@ -1,10 +1,5 @@
 import pandas as pd
 
-teams = { 
-  "teams_id": [
-    "ATL", "BOS", "BKN", "CHA", "CHI",
-    "CLE", "DAL", "DEN", "DET", import pandas as pd
-
 # Create a consistent identifier for each NBA team
 teams = {
     "team_id": [
@@ -67,4 +62,3 @@ assert teams_df["team_id"].is_unique, "Team IDs must be unique."
 teams_df.to_csv("data/raw/teams.csv", index=False)
 
 print("\nSaved successfully to data/raw/teams.csv")
-
