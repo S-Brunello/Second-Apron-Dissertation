@@ -1,26 +1,68 @@
 import pandas as pd
+from pathlib import Path
 
-# SOURCE
+# SETTINGS
 
-# SalarySwish historical team payroll data
-# 2023 page = 2022-23 NBA season
 url = "https://www.salaryswish.com/past-team-payrolls/2023"
+season = "2022-23"
 
-print("Downloading 2022-23 team payroll data...")
+output_folder = Path("data/raw/team_payroll")
+output_folder.mkdir(parents=True, exist_ok=True)
 
-# READ TABLES FROM WEBPAGE
+output_file = output_folder / "team_payroll_2022_23.csv"
+
+print(f"Downloading {season} team payroll data...")
+
+#TABLE 
 
 tables = pd.read_html(url)
+payroll = tables[0]
 
-print(f"Found {len(tables)} table(s) on the page.")
+# Keep only the variables needed for the raw dataset
+payroll = payroll[["Team", "Cap Hit"]].copy()
 
-# Print information about each table so we can identify
-# the correct payroll table.
-for i, table in enumerate(tables):
-    print(f"\n--- TABLE {i} ---")
-    print("Columns:")
-    print(table.columns)
-    print("\nFirst five rows:")
-    print(table.head())
+#EXTRACT STANDARD NBA TEAM ID
 
-print("\nFinished.")
+# SalarySwish includes the three-letter abbreviation at the
+# end of each team name, e.g. "Boston CelticsBOS"
+payroll["team_id"] = payroll["Team"].str[-3:]
+
+#CLEAN CAP HIT
+
+# Convert money to numbers recognizable to github
+payroll["payroll"] = (
+    payroll["Cap Hit"]
+    .str.replace("$", "", regex=False)
+    .str.replace(",", "", regex=False)
+    .astype(int)
+)
+
+# Add season
+payroll["season"] = season
+
+# FINAL RAW DATASET
+
+payroll = payroll[
+    ["team_id", "season", "payroll"]
+]
+
+# CHECKS
+
+assert len(payroll) == 30, \
+    f"Expected 30 NBA teams, found {len(payroll)}"
+
+assert payroll["team_id"].is_unique, \
+    "Duplicate team IDs found."
+
+assert payroll["payroll"].notna().all(), \
+    "Missing payroll values found."
+
+print("\nFirst five rows:")
+print(payroll.head())
+
+print(f"\nNumber of teams: {len(payroll)}")
+
+# SAVE
+payroll.to_csv(output_file, index=False)
+
+print(f"\nSaved successfully to {output_file}")
