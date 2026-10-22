@@ -1,0 +1,11 @@
+player_id,name,team,contract_status,start_date,end_date_exclusive,source_url
+1641736,Reece Beekman,BKN,two_way,2024-12-15,,https://www.nba.com/nets/news/brooklyn-nets-complete-trade-with-golden-state-warriors
+1641998,Trey Jemison,NOP,two_way,2024-07-26,2025-01-09,https://www.nba.com/pelicans/news/trey-jemison-center-new-orleans-pelicans-roster-two-way-contract-gleague-squadron-grizzlies
+1630550,JT Thor,WAS,two_way,2025-03-04,,https://gleague.nba.com/news/washington-claims-jt-thor-off-waivers
+1641817,Anton Watson,NYK,two_way,2025-03-04,,https://gleague.nba.com/news/new-york-knicks-claim-two-way-player-anton-watson
+1631250,Pete Nance,PHI,two_way,2024-12-03,2025-01-07,https://www.nba.com/sixers/news/76ers-sign-pete-nance-to-two-way-contract-jan-2025
+1631250,Pete Nance,PHI,two_way,2025-01-14,2025-02-06,https://www.nba.com/sixers/news/76ers-sign-pete-nance-to-two-way-contract-jan-2025
+1641803,Tristen Newton,MIN,two_way,2025-01-03,,https://www.salaryswish.com/transactions/players/tristen-newton
+1642439,Quincy Olivari,LAL,two_way,2024-10-19,2025-01-15,https://www.nba.com/lakers/news/los-angeles-lakers-convert-quincy-olivari-to-two-way-contract
+1641789,Jazian Gortman,DAL,two_way,2024-10-18,2025-01-26,https://gleague.nba.com/news/mavericks-convert-jazian-gortman-to-two-way-contract
+1642024,Alex Reese,OKC,rookie_standard,2024-10-19,2024-10-31,https://www.salaryswish.com/players/alex-reese
