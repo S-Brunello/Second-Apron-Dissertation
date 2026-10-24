@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 ROOT = Path(__file__).resolve().parents[2]
-OUT = ROOT / "data/processed/team_game_low_salary_2025.csv"
+OUT = ROOT / "data/processed/team_game_low_salary_2025_v2.csv"
 
 if OUT.exists():
     raise FileExistsError(f"Output already exists: {OUT}")
@@ -141,8 +141,68 @@ players.loc[
 # Two-way status comes from the dated contract audit.
 two_way = players["contract_status"].eq("two_way").fillna(False)
 
+# Classify ambiguous salaries using all reported values.
+# We do not select an arbitrary salary amount.
+
+raw_salary = pd.read_parquet(
+    ROOT / "data/raw/historical_player_salaries.parquet"
+)
+
+raw_salary["player_id"] = raw_salary["player_id"].astype("string")
+
+ambiguous_ids = [
+    "1629645", "203458", "202704",
+    "1628964", "1630531", "1631223"
+]
+
+ambiguous = raw_salary[
+    (raw_salary["season"] == 2025)
+    & raw_salary["player_id"].isin(ambiguous_ids)
+].copy()
+
+ambiguous["salary"] = pd.to_numeric(
+    ambiguous["salary"], errors="coerce"
+)
+
+salary_ranges = ambiguous.groupby("player_id")["salary"].agg(
+    ["count", "min", "max"]
+)
+
+if set(salary_ranges.index) != set(ambiguous_ids):
+    raise ValueError("Missing ambiguous player salary records")
+
+if (
+    (salary_ranges["count"] == 0).any()
+    or (salary_ranges["min"] < 0).any()
+    or (salary_ranges["max"] > CAP * 0.05).any()
+):
+    raise ValueError(
+        "Not all ambiguous players are verifiably below 5%"
+    )
+
+# Classify only observations previously left unresolved.
+ambiguous_low = (
+    players["player_id"].isin(ambiguous_ids)
+    & players["resolved_salary"].isna()
+    & players["contract_status"].isna()
+)
+
+assert ambiguous_low.sum() == 169, (
+    "Unexpected ambiguous appearance count"
+)
+
+print(
+    "\nAmbiguous appearances classified as low-salary:",
+    int(ambiguous_low.sum())
+)
+
+
 # Missing salaries are not automatically low-salary.
-known = players["analysis_salary"].notna() | two_way
+known = (
+    players["analysis_salary"].notna()
+    | two_way
+    | ambiguous_low
+)
 
 players["classification_known"] = known
 
@@ -150,6 +210,7 @@ for pct in [5, 10]:
     low = (
         (players["analysis_salary"] / CAP <= pct / 100)
         | two_way
+        | ambiguous_low
     ).fillna(False)
 
     players[f"low_minutes_{pct}"] = (

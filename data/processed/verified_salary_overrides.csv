@@ -1,0 +1,11 @@
+season,name,team,annual_salary,source_url,salary_cap,salary_cap_share,low_5pct,low_10pct,verification_status
+2023,Russell Westbrook,LAL,47063478,https://www.salaryswish.com/players/russell-westbrook,123655000,0.3806031135012737,0,0,source_reviewed
+2023,Reggie Jackson,LAC,11215260,https://www.salaryswish.com/players/reggie-jackson,123655000,0.09069799037645061,0,1,source_reviewed
+2023,Patrick Beverley,LAL,13000000,https://www.salaryswish.com/players/patrick-beverley,123655000,0.10513121183939185,0,0,source_reviewed
+2023,Justin Holiday,ATL,6292440,https://www.hoopsrumors.com/,123655000,0.05088706481743561,0,1,source_reviewed
+2023,Danny Green,MEM,10000000,https://theleadsm.com/grizzlies-salaries-set-up-successful-future/,123655000,0.08087016295337836,0,1,source_reviewed
+2024,Spencer Dinwiddie,BKN,18857143,https://www.salaryswish.com/players/spencer-dinwiddie,136021000,0.1386340565059807,0,0,source_reviewed
+2024,Kyle Lowry,MIA,29682540,https://www.miamiherald.com/sports/nba/miami-heat/article278140077.html,136021000,0.2182202748105072,0,0,source_reviewed
+2024,Marcus Morris Sr.,PHI,17116279,https://www.salaryswish.com/players/marcus-morris,136021000,0.12583556215584357,0,0,source_reviewed
+2024,Danilo Gallinari,WAS,6802950,https://www.salaryswish.com/players/danilo-gallinari,136021000,0.05001396843134516,0,1,source_reviewed
+2024,Thaddeus Young,TOR,8000000,https://www.salaryswish.com/players/thaddeus-young,136021000,0.05881444776909448,0,1,source_reviewed
