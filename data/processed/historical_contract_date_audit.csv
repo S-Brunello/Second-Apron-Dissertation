@@ -1,0 +1,6 @@
+season,player_id,name,signing_team,contract_type,signing_date,waiver_details,conversion_details,date_issue,source_url
+2023,1629633,Jarrett Culver,ATL,TWO-WAY CONTRACT,"September 12, 2022"," ATL - Jan 14, 2021",,waiver_before_signing,https://www.salaryswish.com/players/jarrett-culver
+2023,1629623,Lindell Wigginton,MIL,TWO-WAY CONTRACT (REST OF SEASON),"March 7, 2023"," MIL - Jan 7, 2023",,waiver_before_signing,https://www.salaryswish.com/players/lindell-wigginton
+2024,1629623,Lindell Wigginton,MIL,TWO-WAY CONTRACT (REST OF SEASON),"March 7, 2023"," MIL - Jan 7, 2023",,waiver_before_signing,https://www.salaryswish.com/players/lindell-wigginton
+2026,1630621,Hunter Dickinson,NOP,TWO-WAY CONTRACT,"July 3, 2025", NOP,,missing_waiver_date,https://www.salaryswish.com/players/hunter-dickinson
+2026,1642951,Sean Pedulla,POR,ROOKIE CONTRACT,"October 8, 2025"," POR - Oct 7, 2025",,waiver_before_signing,https://www.salaryswish.com/players/sean-pedulla

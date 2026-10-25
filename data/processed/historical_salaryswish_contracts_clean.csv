@@ -1,0 +1,359 @@
+season,nba_season,player_id,name,source_url,contract_type,signing_team,signing_date,cap_hit,base_salary,waiver_details,conversion_details,contract_type_original
+2020,2019-20,1627740,Henry Ellenson,https://www.salaryswish.com/players/henry-ellenson,ROOKIE SCALE CONTRACT,DET,"July 18, 2016",2856804,2856804," DET - Feb 9, 2019",,ROOKIE SCALE CONTRACT
+2020,2019-20,1627740,Henry Ellenson,https://www.salaryswish.com/players/henry-ellenson,VETERAN CONTRACT (REST OF SEASON),NYK,"March 2, 2019",1645357,1645357,,,VETERAN CONTRACT (REST OF SEASON)
+2020,2019-20,1627740,Henry Ellenson,https://www.salaryswish.com/players/henry-ellenson,TWO-WAY CONTRACT,BKN,"July 17, 2019",0,79568," BKN - Jan 3, 2020",,TWO-WAY CONTRACT
+2020,2019-20,1628443,Kadeem Allen,https://www.salaryswish.com/players/kadeem-allen,TWO-WAY CONTRACT (REST OF SEASON),NYK,"January 14, 2019",0,79568," NYK - Jun 25, 2020",,TWO-WAY CONTRACT (REST OF SEASON)
+2020,2019-20,1629657,Kyle Guy,https://www.salaryswish.com/players/kyle-guy,TWO-WAY CONTRACT,SAC,"July 7, 2019",0,79568,,,TWO-WAY CONTRACT
+2020,2019-20,1629044,Shamorie Ponds,https://www.salaryswish.com/players/shamorie-ponds,TWO-WAY CONTRACT (REST OF SEASON),TOR,"October 23, 2019",0,79568," TOR - Jan 15, 2020",,TWO-WAY CONTRACT (REST OF SEASON)
+2021,2020-21,1630204,Ashton Hagans,https://www.salaryswish.com/players/ashton-hagans,TWO-WAY CONTRACT,MIN,"November 28, 2020",0,449115," MIN - Feb 13, 2021",,TWO-WAY CONTRACT
+2021,2020-21,1629751,Dakota Mathias,https://www.salaryswish.com/players/dakota-mathias,TWO-WAY CONTRACT,PHI,"November 27, 2020",0,449115," PHI - Jan 18, 2021",,TWO-WAY CONTRACT
+2021,2020-21,1628412,Frank Mason III,https://www.salaryswish.com/players/frank-mason-iii,EXHIBIT 10,PHI,"December 18, 2020",1620564,1678854," PHI - Dec 19, 2020",,EXHIBIT 10
+2021,2020-21,1628412,Frank Mason III,https://www.salaryswish.com/players/frank-mason-iii,TWO-WAY CONTRACT (REST OF SEASON),ORL,"February 3, 2021",0,449115," ORL - Feb 15, 2021",,TWO-WAY CONTRACT (REST OF SEASON)
+2021,2020-21,1629121,Jaylen Adams,https://www.salaryswish.com/players/jaylen-adams,TWO-WAY CONTRACT,MIL,"November 24, 2020",0,449155," MIL - Mar 4, 2021",,TWO-WAY CONTRACT
+2021,2020-21,1629648,Jordan Bone,https://www.salaryswish.com/players/jordan-bone,TWO-WAY CONTRACT,ORL,"November 27, 2020",0,449155," ORL - Feb 3, 2021",,TWO-WAY CONTRACT
+2023,2022-23,1630639,A.J. Lawson,https://www.salaryswish.com/players/aj-lawson,TWO-WAY CONTRACT,MIN,"July 26, 2022",0,508891," MIN - Oct 15, 2022",,TWO-WAY CONTRACT
+2023,2022-23,1630639,A.J. Lawson,https://www.salaryswish.com/players/aj-lawson,TWO-WAY CONTRACT (REST OF SEASON),MIN,"November 15, 2022",0,508891," MIN - Dec 7, 2022",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630639,A.J. Lawson,https://www.salaryswish.com/players/aj-lawson,TWO-WAY CONTRACT,DAL,"December 26, 2022",0,508891,,"This contract was converted to a Veteran Contract contract ( DAL - Mar 3, 2024)",TWO-WAY CONTRACT
+2023,2022-23,1631260,AJ Green,https://www.salaryswish.com/players/aj-green,TWO-WAY CONTRACT,MIL,"July 1, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631214,Alondes Williams,https://www.salaryswish.com/players/alondes-williams,TWO-WAY CONTRACT,BKN,"July 2, 2022",0,508891," BKN - Jan 12, 2023",,TWO-WAY CONTRACT
+2023,2022-23,1630296,Braxton Key,https://www.salaryswish.com/players/braxton-key,UNKNOWN,DET,"April 3, 2022",0,476500," DET - Dec 26, 2022",,UNKNOWN
+2023,2022-23,1631205,Buddy Boeheim,https://www.salaryswish.com/players/buddy-boeheim,TWO-WAY CONTRACT,DET,"July 2, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631306,Cole Swider,https://www.salaryswish.com/players/cole-swider,TWO-WAY CONTRACT,LAL,"July 1, 2022",0,508891," LAL - Jul 26, 2023",,TWO-WAY CONTRACT
+2023,2022-23,1630620,Darius Days,https://www.salaryswish.com/players/darius-days,TWO-WAY CONTRACT,MIA,"July 16, 2022",0,508891," MIA - Oct 8, 2022",,TWO-WAY CONTRACT
+2023,2022-23,1630620,Darius Days,https://www.salaryswish.com/players/darius-days,EXHIBIT 10,MIA,"October 8, 2022",1017781,1017781," MIA - Oct 9, 2022",,EXHIBIT 10
+2023,2022-23,1630620,Darius Days,https://www.salaryswish.com/players/darius-days,TWO-WAY CONTRACT,HOU,"October 17, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631220,Dereon Seabron,https://www.salaryswish.com/players/dereon-seabron,TWO-WAY CONTRACT,NOP,"September 9, 2022",0,508891," NOP - Apr 9, 2023",,TWO-WAY CONTRACT
+2023,2022-23,1631220,Dereon Seabron,https://www.salaryswish.com/players/dereon-seabron,TWO-WAY CONTRACT (REST OF SEASON),NOP,"April 9, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1629653,Devon Dotson,https://www.salaryswish.com/players/devon-dotson,EXHIBIT 10,WAS,"September 27, 2022",1836090,1836090," WAS - Oct 15, 2022",,EXHIBIT 10
+2023,2022-23,1629653,Devon Dotson,https://www.salaryswish.com/players/devon-dotson,TWO-WAY CONTRACT (REST OF SEASON),WAS,"November 20, 2022",0,508891," WAS - Jan 17, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1631230,Dominick Barlow,https://www.salaryswish.com/players/dominick-barlow,TWO-WAY CONTRACT,SAS,"July 10, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631495,Donovan Williams,https://www.salaryswish.com/players/donovan-williams,EXHIBIT 10,BKN,"October 12, 2022",1017781,1017781," BKN - Oct 14, 2022",,EXHIBIT 10
+2023,2022-23,1631495,Donovan Williams,https://www.salaryswish.com/players/donovan-williams,TWO-WAY CONTRACT (REST OF SEASON),ATL,"January 17, 2023",0,508891," ATL - Jun 26, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630696,Dru Smith,https://www.salaryswish.com/players/dru-smith,EXHIBIT 10,MIA,"September 20, 2022",1017781,1017781,,"This contract was converted to a Two-Way Contract contract ( MIA - Oct 13, 2022)",EXHIBIT 10
+2023,2022-23,1630696,Dru Smith,https://www.salaryswish.com/players/dru-smith,TWO-WAY CONTRACT,MIA,"October 13, 2022",0,508891," MIA - Nov 13, 2022",,TWO-WAY CONTRACT
+2023,2022-23,1630696,Dru Smith,https://www.salaryswish.com/players/dru-smith,TWO-WAY CONTRACT (REST OF SEASON),MIA,"November 25, 2022",0,508891," MIA - Dec 11, 2022",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630696,Dru Smith,https://www.salaryswish.com/players/dru-smith,TWO-WAY CONTRACT (REST OF SEASON),BKN,"January 13, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630613,Duane Washington Jr.,https://www.salaryswish.com/players/duane-washington-jr,ROOKIE CONTRACT (REST OF SEASON),IND,"April 7, 2022",1563518,1563518," IND - Jul 14, 2022",,ROOKIE CONTRACT (REST OF SEASON)
+2023,2022-23,1630613,Duane Washington Jr.,https://www.salaryswish.com/players/duane-washington-jr,TWO-WAY CONTRACT,PHX,"August 3, 2022",0,508891," PHX - Feb 1, 2023",,TWO-WAY CONTRACT
+2023,2022-23,1630613,Duane Washington Jr.,https://www.salaryswish.com/players/duane-washington-jr,TWO-WAY CONTRACT (REST OF SEASON),NYK,"February 28, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1628221,Gabe York,https://www.salaryswish.com/players/gabe-york,EXHIBIT 10,IND,"September 15, 2022",1637966,1637966," IND - Sep 23, 2022",,EXHIBIT 10
+2023,2022-23,1628221,Gabe York,https://www.salaryswish.com/players/gabe-york,TWO-WAY CONTRACT (REST OF SEASON),IND,"March 30, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630600,Isaiah Mobley,https://www.salaryswish.com/players/isaiah-mobley,TWO-WAY CONTRACT,CLE,"July 2, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631120,JD Davison,https://www.salaryswish.com/players/jd-davison,TWO-WAY CONTRACT,BOS,"July 9, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631298,Jack White,https://www.salaryswish.com/players/jack-white,TWO-WAY CONTRACT,DEN,"July 19, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631367,Jacob Gilyard,https://www.salaryswish.com/players/jacob-gilyard,EXHIBIT 10,MEM,"September 23, 2022",1017781,1017781," MEM - Oct 10, 2022",,EXHIBIT 10
+2023,2022-23,1631367,Jacob Gilyard,https://www.salaryswish.com/players/jacob-gilyard,TWO-WAY CONTRACT (REST OF SEASON),MEM,"April 8, 2023",0,508891," MEM - Feb 24, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1631288,Jamal Cain,https://www.salaryswish.com/players/jamal-cain,EXHIBIT 10,MIA,"July 15, 2022",1017781,1017781,,"This contract was converted to a Two-Way Contract contract ( MIA - Oct 9, 2022)",EXHIBIT 10
+2023,2022-23,1631288,Jamal Cain,https://www.salaryswish.com/players/jamal-cain,TWO-WAY CONTRACT,MIA,"October 9, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631197,Jared Rhoden,https://www.salaryswish.com/players/jared-rhoden,EXHIBIT 10,POR,"August 2, 2022",1017781,1017781," POR - Oct 12, 2022",,EXHIBIT 10
+2023,2022-23,1631197,Jared Rhoden,https://www.salaryswish.com/players/jared-rhoden,TWO-WAY CONTRACT (REST OF SEASON),DET,"December 26, 2022",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1629633,Jarrett Culver,https://www.salaryswish.com/players/jarrett-culver,ROOKIE SCALE CONTRACT,MIN,"July 8, 2019",8109063,8109063,,,ROOKIE SCALE CONTRACT
+2023,2022-23,1629633,Jarrett Culver,https://www.salaryswish.com/players/jarrett-culver,TWO-WAY CONTRACT,ATL,"September 12, 2022",0,508891," ATL - Jan 14, 2021",,SUMMER LEAGUE AND SUMMER CONDITIONING TWO-WAY CONTRACT
+2023,2022-23,1630643,Jay Huff,https://www.salaryswish.com/players/jay-huff,EXHIBIT 10,LAL,"July 27, 2022",1637966,1637966," LAL - Oct 15, 2022",,EXHIBIT 10
+2023,2022-23,1630643,Jay Huff,https://www.salaryswish.com/players/jay-huff,TWO-WAY CONTRACT (REST OF SEASON),WAS,"March 1, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630206,Jay Scrubb,https://www.salaryswish.com/players/jay-scrubb,EXHIBIT 10,LAC,"July 8, 2022",1836090,1836090," LAC - Jul 27, 2022",,EXHIBIT 10
+2023,2022-23,1630206,Jay Scrubb,https://www.salaryswish.com/players/jay-scrubb,EXHIBIT 10,ORL,"October 8, 2022",1836090,1836090," ORL - Oct 15, 2022",,EXHIBIT 10
+2023,2022-23,1630206,Jay Scrubb,https://www.salaryswish.com/players/jay-scrubb,TWO-WAY CONTRACT (REST OF SEASON),ORL,"March 24, 2023",0,508891," ORL - Jun 5, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630288,Jeff Dowtin Jr.,https://www.salaryswish.com/players/jeff-dowtin,TWO-WAY CONTRACT,TOR,"July 19, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631219,John Butler Jr.,https://www.salaryswish.com/players/john-butler-jr,EXHIBIT 10,NOP,"September 23, 2022",1017781,1017781," NOP - Oct 10, 2022",,EXHIBIT 10
+2023,2022-23,1631219,John Butler Jr.,https://www.salaryswish.com/players/john-butler-jr,TWO-WAY CONTRACT (REST OF SEASON),POR,"October 20, 2022",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630548,Johnny Juzang,https://www.salaryswish.com/players/johnny-juzang,TWO-WAY CONTRACT,UTA,"July 15, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630648,Jordan Schakel,https://www.salaryswish.com/players/jordan-schakel,TWO-WAY CONTRACT (REST OF SEASON),WAS,"March 9, 2022",0,476500," WAS - Nov 20, 2022",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630577,Julian Champagnie,https://www.salaryswish.com/players/julian-champagnie,TWO-WAY CONTRACT,PHI,"July 2, 2022",0,508891," PHI - Feb 14, 2023",,TWO-WAY CONTRACT
+2023,2022-23,1631112,Kendall Brown,https://www.salaryswish.com/players/kendall-brown,TWO-WAY CONTRACT,IND,"September 15, 2022",0,508892,,,TWO-WAY CONTRACT
+2023,2022-23,1631165,Keon Ellis,https://www.salaryswish.com/players/keon-ellis,TWO-WAY CONTRACT,SAC,"July 2, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630284,Kevon Harris,https://www.salaryswish.com/players/kevon-harris,TWO-WAY CONTRACT,ORL,"July 25, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1629623,Lindell Wigginton,https://www.salaryswish.com/players/lindell-wigginton,EXHIBIT 10,MIL,"July 8, 2022",1637966,1637966," MIL - Oct 15, 2022",,EXHIBIT 10
+2023,2022-23,1629623,Lindell Wigginton,https://www.salaryswish.com/players/lindell-wigginton,TWO-WAY CONTRACT (REST OF SEASON),MIL,"March 7, 2023",0,508891," MIL - Jan 7, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1629663,Louis King,https://www.salaryswish.com/players/louis-king,TWO-WAY CONTRACT (REST OF SEASON),PHI,"December 26, 2022",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630568,Luka Garza,https://www.salaryswish.com/players/luka-garza,ROOKIE CONTRACT,DET,"September 24, 2021",1563518,1563518,,,ROOKIE CONTRACT
+2023,2022-23,1630568,Luka Garza,https://www.salaryswish.com/players/luka-garza,EXHIBIT 10,MIN,"August 22, 2022",1637966,1637966,,"This contract was converted to a Two-Way Contract contract ( MIN - Oct 14, 2022)",EXHIBIT 10
+2023,2022-23,1630568,Luka Garza,https://www.salaryswish.com/players/luka-garza,TWO-WAY CONTRACT,MIN,"October 14, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630644,Mac McClung,https://www.salaryswish.com/players/mac-mcclung,UNKNOWN,GSW,"July 22, 2022",1637966,1637966," GSW - Oct 3, 2022",,UNKNOWN
+2023,2022-23,1630644,Mac McClung,https://www.salaryswish.com/players/mac-mcclung,EXHIBIT 10,PHI,"October 10, 2022",1637966,1637966," PHI - Oct 10, 2022",,EXHIBIT 10
+2023,2022-23,1630644,Mac McClung,https://www.salaryswish.com/players/mac-mcclung,TWO-WAY CONTRACT (REST OF SEASON),PHI,"February 14, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630792,Malcolm Hill,https://www.salaryswish.com/players/malcolm-hill,TWO-WAY CONTRACT,CHI,"September 7, 2022",0,508891," CHI - Feb 21, 2023",,TWO-WAY CONTRACT
+2023,2022-23,1629603,Mamadi Diakite,https://www.salaryswish.com/players/mamadi-diakite,ROOKIE CONTRACT (REST OF SEASON),MIL,"April 21, 2021",1782621,1782621," MIL - Sep 24, 2021",,ROOKIE CONTRACT (REST OF SEASON)
+2023,2022-23,1629603,Mamadi Diakite,https://www.salaryswish.com/players/mamadi-diakite,UNKNOWN,CLE,"September 19, 2022",1836090,1836090," CLE - Oct 15, 2022",,UNKNOWN
+2023,2022-23,1629603,Mamadi Diakite,https://www.salaryswish.com/players/mamadi-diakite,TWO-WAY CONTRACT,CLE,"October 17, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630593,McKinley Wright IV,https://www.salaryswish.com/players/mckinley-wright-iv,EXHIBIT 10,DAL,"August 12, 2022",1637966,1637966,,"This contract was converted to a Two-Way Contract contract ( DAL - Oct 15, 2022)",EXHIBIT 10
+2023,2022-23,1630593,McKinley Wright IV,https://www.salaryswish.com/players/mckinley-wright-iv,TWO-WAY CONTRACT,DAL,"October 15, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1629662,Mfiondu Kabengele,https://www.salaryswish.com/players/mfiondu-kabengele,ROOKIE SCALE CONTRACT,LAC,"July 8, 2019",3923484,3923484," SAC - Mar 26, 2021",,ROOKIE SCALE CONTRACT
+2023,2022-23,1629662,Mfiondu Kabengele,https://www.salaryswish.com/players/mfiondu-kabengele,VETERAN CONTRACT (REST OF SEASON),CLE,"May 1, 2021",1846738,1846738," CLE - Oct 12, 2021",,VETERAN CONTRACT (REST OF SEASON)
+2023,2022-23,1629662,Mfiondu Kabengele,https://www.salaryswish.com/players/mfiondu-kabengele,TWO-WAY CONTRACT,BOS,"July 16, 2022",0,508891,,,REFER TO THE DEAD CAP SECTION BELOW FOR DETAILS TWO-WAY CONTRACT
+2023,2022-23,1630695,Micah Potter,https://www.salaryswish.com/players/micah-potter,EXHIBIT 10,DET,"September 12, 2022",1637966,1637966," DET - Sep 14, 2022",,EXHIBIT 10
+2023,2022-23,1630695,Micah Potter,https://www.salaryswish.com/players/micah-potter,TWO-WAY CONTRACT,UTA,"October 12, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630701,Michael Foster Jr.,https://www.salaryswish.com/players/michael-foster-jr,EXHIBIT 10,PHI,"July 10, 2022",1017781,1017781,,"This contract was converted to a Two-Way Contract contract ( PHI - Oct 15, 2022)",EXHIBIT 10
+2023,2022-23,1630701,Michael Foster Jr.,https://www.salaryswish.com/players/michael-foster-jr,TWO-WAY CONTRACT,PHI,"October 16, 2022",0,508891," PHI - Nov 23, 2022",,TWO-WAY CONTRACT
+2023,2022-23,1631217,Moussa Diabate,https://www.salaryswish.com/players/moussa-diabate,TWO-WAY CONTRACT,LAC,"July 22, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1629674,Neemias Queta,https://www.salaryswish.com/players/neemias-queta,TWO-WAY CONTRACT,SAC,"July 2, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630846,Olivier Sarr,https://www.salaryswish.com/players/olivier-sarr,EXHIBIT 10,POR,"September 7, 2022",1637966,1637966,,"This contract was converted to a Two-Way Contract contract ( POR - Oct 13, 2022)",EXHIBIT 10
+2023,2022-23,1630846,Olivier Sarr,https://www.salaryswish.com/players/olivier-sarr,TWO-WAY CONTRACT,POR,"October 13, 2022",0,508891," POR - Nov 18, 2022",,TWO-WAY CONTRACT
+2023,2022-23,1630846,Olivier Sarr,https://www.salaryswish.com/players/olivier-sarr,TWO-WAY CONTRACT (REST OF SEASON),OKC,"February 11, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1631115,Orlando Robinson,https://www.salaryswish.com/players/orlando-robinson,UNKNOWN,MIA,"July 6, 2022",1017781,1017781," MIA - Oct 13, 2022",,UNKNOWN
+2023,2022-23,1631115,Orlando Robinson,https://www.salaryswish.com/players/orlando-robinson,TWO-WAY CONTRACT (REST OF SEASON),MIA,"November 13, 2022",0,508891," MIA - Nov 25, 2022",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1631115,Orlando Robinson,https://www.salaryswish.com/players/orlando-robinson,TWO-WAY CONTRACT (REST OF SEASON),MIA,"December 11, 2022",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1631245,Quenton Jackson,https://www.salaryswish.com/players/quenton-jackson,EXHIBIT 10,WAS,"September 12, 2022",1017781,1017781," WAS - Oct 15, 2022",,EXHIBIT 10
+2023,2022-23,1631245,Quenton Jackson,https://www.salaryswish.com/players/quenton-jackson,TWO-WAY CONTRACT (REST OF SEASON),WAS,"February 10, 2023",0,508891," WAS - Jul 24, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1630564,RaiQuan Gray,https://www.salaryswish.com/players/raiquan-gray,ROOKIE CONTRACT,BKN,"September 9, 2022",1017781,1017781," BKN - Sep 22, 2022",,ROOKIE CONTRACT
+2023,2022-23,1630564,RaiQuan Gray,https://www.salaryswish.com/players/raiquan-gray,EXHIBIT 10,BKN,"September 26, 2022",1017781,1017781," BKN - Oct 15, 2022",,EXHIBIT 10
+2023,2022-23,1630564,RaiQuan Gray,https://www.salaryswish.com/players/raiquan-gray,TWO-WAY CONTRACT (REST OF SEASON),BKN,"April 8, 2023",0,508891," BKN - Jul 18, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2023,2022-23,1631199,Ron Harper Jr.,https://www.salaryswish.com/players/ron-harper-jr,TWO-WAY CONTRACT,TOR,"July 13, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630590,Scotty Pippen Jr.,https://www.salaryswish.com/players/scotty-pippen-jr,TWO-WAY CONTRACT,LAL,"July 1, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1630235,Trent Forrest,https://www.salaryswish.com/players/trent-forrest,TWO-WAY CONTRACT,ATL,"August 8, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1631309,Trevor Hudgins,https://www.salaryswish.com/players/trevor-hudgins,TWO-WAY CONTRACT,HOU,"July 1, 2022",0,508891,,,TWO-WAY CONTRACT
+2023,2022-23,1628416,Tyler Dorsey,https://www.salaryswish.com/players/tyler-dorsey,TWO-WAY CONTRACT,DAL,"July 23, 2022",0,508891," DAL - Dec 26, 2022",,TWO-WAY CONTRACT
+2023,2022-23,1631246,Vince Williams Jr.,https://www.salaryswish.com/players/vince-williams-jr,TWO-WAY CONTRACT,MEM,"July 2, 2022",0,508891,,"This contract was converted to a Veteran Contract contract ( MEM - Jan 10, 2024)",TWO-WAY CONTRACT
+2023,2022-23,1629875,Xavier Moon,https://www.salaryswish.com/players/xavier-moon,EXHIBIT 10,LAC,"July 8, 2022",1637966,1637966," LAC - Oct 13, 2022",,EXHIBIT 10
+2023,2022-23,1629875,Xavier Moon,https://www.salaryswish.com/players/xavier-moon,TWO-WAY CONTRACT (REST OF SEASON),LAC,"March 1, 2023",0,508891,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641745,Adam Flagler,https://www.salaryswish.com/players/adam-flagler,EXHIBIT 10,OKC,"October 19, 2023",1119563,1119563," OKC - Oct 20, 2023",,EXHIBIT 10
+2024,2023-24,1641745,Adam Flagler,https://www.salaryswish.com/players/adam-flagler,TWO-WAY CONTRACT (REST OF SEASON),OKC,"February 11, 2024",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641766,Adama Sanogo,https://www.salaryswish.com/players/adama-sanogo,TWO-WAY CONTRACT,CHI,"July 10, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1629678,Admiral Schofield,https://www.salaryswish.com/players/admiral-schofield,VETERAN CONTRACT (REST OF SEASON),ORL,"February 21, 2023",1997238,1997238,,,VETERAN CONTRACT (REST OF SEASON)
+2024,2023-24,1629678,Admiral Schofield,https://www.salaryswish.com/players/admiral-schofield,TWO-WAY CONTRACT,ORL,"July 20, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1641788,Alex Fudge,https://www.salaryswish.com/players/alex-fudge,TWO-WAY CONTRACT,LAL,"July 26, 2023",0,559782," LAL - Jan 6, 2024",,TWO-WAY CONTRACT
+2024,2023-24,1641788,Alex Fudge,https://www.salaryswish.com/players/alex-fudge,TWO-WAY CONTRACT (REST OF SEASON),DAL,"March 4, 2024",0,559782," DAL - Aug 8, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631214,Alondes Williams,https://www.salaryswish.com/players/alondes-williams,EXHIBIT 10,MIA,"August 11, 2023",1801769,1801769," MIA - Oct 14, 2023",,EXHIBIT 10
+2024,2023-24,1631214,Alondes Williams,https://www.salaryswish.com/players/alondes-williams,TWO-WAY CONTRACT,MIA,"February 9, 2024",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1641735,Amari Bailey,https://www.salaryswish.com/players/amari-bailey,TWO-WAY CONTRACT,CHA,"July 14, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1641847,Andrew Funk,https://www.salaryswish.com/players/andrew-funk,EXHIBIT 10,DEN,"July 17, 2023",1119563,1119563," DEN - Oct 13, 2023",,EXHIBIT 10
+2024,2023-24,1641847,Andrew Funk,https://www.salaryswish.com/players/andrew-funk,TWO-WAY CONTRACT (REST OF SEASON),CHI,"February 24, 2024",0,559782," CHI - Jul 24, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1629717,Armoni Brooks,https://www.salaryswish.com/players/armoni-brooks,VETERAN CONTRACT,HOU,"October 14, 2021",1902137,1902137," HOU - Feb 10, 2022",,VETERAN CONTRACT
+2024,2023-24,1629717,Armoni Brooks,https://www.salaryswish.com/players/armoni-brooks,TWO-WAY CONTRACT,BKN,"July 18, 2023",0,559782," BKN - Jan 6, 2024",,TWO-WAY CONTRACT
+2024,2023-24,1630314,Brandon Williams,https://www.salaryswish.com/players/brandon-williams,EXHIBIT 10,ORL,"September 12, 2023",1801769,1801769," ORL - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1630314,Brandon Williams,https://www.salaryswish.com/players/brandon-williams,TWO-WAY CONTRACT (REST OF SEASON),DAL,"December 28, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630296,Braxton Key,https://www.salaryswish.com/players/braxton-key,TWO-WAY CONTRACT,DEN,"July 18, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631205,Buddy Boeheim,https://www.salaryswish.com/players/buddy-boeheim,EXHIBIT 10,DET,"August 1, 2023",1801769,1801769," DET - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1631205,Buddy Boeheim,https://www.salaryswish.com/players/buddy-boeheim,TWO-WAY CONTRACT (REST OF SEASON),DET,"February 23, 2024",0,559782," DET - Jun 29, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1629718,Charlie Brown Jr.,https://www.salaryswish.com/players/charlie-brown-jr,EXHIBIT 10,NYK,"September 6, 2023",2019706,2092354,,"This contract was converted to a Two-Way Contract contract ( NYK - Oct 21, 2023)",EXHIBIT 10
+2024,2023-24,1629718,Charlie Brown Jr.,https://www.salaryswish.com/players/charlie-brown-jr,TWO-WAY CONTRACT,NYK,"October 21, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631306,Cole Swider,https://www.salaryswish.com/players/cole-swider,TWO-WAY CONTRACT,LAL,"July 1, 2022",0,530943," LAL - Jul 26, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1631306,Cole Swider,https://www.salaryswish.com/players/cole-swider,EXHIBIT 10,MIA,"August 11, 2023",1801769,1801769,,"This contract was converted to a Two-Way Contract contract ( MIA - Oct 21, 2023)",EXHIBIT 10
+2024,2023-24,1631306,Cole Swider,https://www.salaryswish.com/players/cole-swider,TWO-WAY CONTRACT,MIA,"October 21, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630658,Colin Castleton,https://www.salaryswish.com/players/colin-castleton,TWO-WAY CONTRACT,LAL,"July 3, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631221,Collin Gillespie,https://www.salaryswish.com/players/collin-gillespie,TWO-WAY CONTRACT,DEN,"July 17, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630227,Daishen Nix,https://www.salaryswish.com/players/daishen-nix,ROOKIE CONTRACT (REST OF SEASON),HOU,"February 14, 2022",1836096,1836096," HOU - Jun 29, 2023",,ROOKIE CONTRACT (REST OF SEASON)
+2024,2023-24,1630227,Daishen Nix,https://www.salaryswish.com/players/daishen-nix,EXHIBIT 10,MIN,"September 21, 2023",2019706,2019706,,"This contract was converted to a Two-Way Contract contract ( MIN - Oct 20, 2023)",EXHIBIT 10
+2024,2023-24,1630227,Daishen Nix,https://www.salaryswish.com/players/daishen-nix,TWO-WAY CONTRACT,MIN,"October 20, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630561,David Duke Jr.,https://www.salaryswish.com/players/david-duke-jr,EXHIBIT 10,PHI,"September 11, 2023",2019706,2019706," PHI - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1630561,David Duke Jr.,https://www.salaryswish.com/players/david-duke-jr,TWO-WAY CONTRACT (REST OF SEASON),SAS,"December 14, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631220,Dereon Seabron,https://www.salaryswish.com/players/dereon-seabron,TWO-WAY CONTRACT (REST OF SEASON),NOP,"April 9, 2023",0,530943,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641926,Dexter Dennis,https://www.salaryswish.com/players/dexter-dennis,EXHIBIT 10,DAL,"September 21, 2023",1119563,1119563,,"This contract was converted to a Two-Way Contract contract ( DAL - Oct 21, 2023)",EXHIBIT 10
+2024,2023-24,1641926,Dexter Dennis,https://www.salaryswish.com/players/dexter-dennis,TWO-WAY CONTRACT,DAL,"October 21, 2023",0,559782," DAL - Dec 28, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1631376,Dmytro Skapintsev,https://www.salaryswish.com/players/dmytro-skapintsev,EXHIBIT 10,NYK,"August 2, 2023",1119563,1119563," NYK - Sep 15, 2023",,EXHIBIT 10
+2024,2023-24,1631376,Dmytro Skapintsev,https://www.salaryswish.com/players/dmytro-skapintsev,TWO-WAY CONTRACT (REST OF SEASON),NYK,"December 22, 2023",0,559782," NYK - Jan 1, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641809,Drew Peterson,https://www.salaryswish.com/players/drew-peterson,EXHIBIT 10,MIA,"August 11, 2023",1119563,1119563," MIA - Oct 14, 2023",,EXHIBIT 10
+2024,2023-24,1641809,Drew Peterson,https://www.salaryswish.com/players/drew-peterson,TWO-WAY CONTRACT (REST OF SEASON),BOS,"December 14, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641734,Emoni Bates,https://www.salaryswish.com/players/emoni-bates,TWO-WAY CONTRACT,CLE,"July 7, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630535,Greg Brown III,https://www.salaryswish.com/players/greg-brown-iii,ROOKIE CONTRACT,POR,"August 13, 2021",1836096,1836096," POR - Feb 9, 2023",,ROOKIE CONTRACT
+2024,2023-24,1630535,Greg Brown III,https://www.salaryswish.com/players/greg-brown-iii,EXHIBIT 10,DAL,"August 14, 2023",2019706,2019706,,"This contract was converted to a Two-Way Contract contract ( DAL - Oct 21, 2023)",EXHIBIT 10
+2024,2023-24,1630535,Greg Brown III,https://www.salaryswish.com/players/greg-brown-iii,TWO-WAY CONTRACT,DAL,"October 21, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630929,Henri Drell,https://www.salaryswish.com/players/henri-drell,EXHIBIT 10,CHI,"September 12, 2023",1119563,1119563," CHI - Oct 13, 2023",,EXHIBIT 10
+2024,2023-24,1630929,Henri Drell,https://www.salaryswish.com/players/henri-drell,TWO-WAY CONTRACT (REST OF SEASON),CHI,"December 16, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630641,Ibou Badji,https://www.salaryswish.com/players/ibou-badji,TWO-WAY CONTRACT,POR,"June 29, 2023",0,559782," POR - Oct 23, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1630641,Ibou Badji,https://www.salaryswish.com/players/ibou-badji,TWO-WAY CONTRACT (REST OF SEASON),POR,"November 22, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630600,Isaiah Mobley,https://www.salaryswish.com/players/isaiah-mobley,TWO-WAY CONTRACT,CLE,"July 3, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631209,Isaiah Wong,https://www.salaryswish.com/players/isaiah-wong,TWO-WAY CONTRACT,IND,"July 3, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631120,JD Davison,https://www.salaryswish.com/players/jd-davison,TWO-WAY CONTRACT,BOS,"July 9, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631367,Jacob Gilyard,https://www.salaryswish.com/players/jacob-gilyard,TWO-WAY CONTRACT (REST OF SEASON),MEM,"April 8, 2023",0,530943," MEM - Feb 24, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631367,Jacob Gilyard,https://www.salaryswish.com/players/jacob-gilyard,TWO-WAY CONTRACT (REST OF SEASON),BKN,"March 2, 2024",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641771,Jalen Slawson,https://www.salaryswish.com/players/jalen-slawson,TWO-WAY CONTRACT,SAC,"July 2, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631288,Jamal Cain,https://www.salaryswish.com/players/jamal-cain,TWO-WAY CONTRACT,MIA,"August 11, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631123,Jamaree Bouyea,https://www.salaryswish.com/players/jamaree-bouyea,TWO-WAY CONTRACT,MIA,"July 1, 2023",0,559782," MIA - Sep 27, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1631123,Jamaree Bouyea,https://www.salaryswish.com/players/jamaree-bouyea,TWO-WAY CONTRACT (REST OF SEASON),POR,"November 12, 2023",0,559782," POR - Nov 22, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631123,Jamaree Bouyea,https://www.salaryswish.com/players/jamaree-bouyea,TWO-WAY CONTRACT (REST OF SEASON),SAS,"March 2, 2024",0,559782," SAS - Sep 15, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631197,Jared Rhoden,https://www.salaryswish.com/players/jared-rhoden,TWO-WAY CONTRACT,DET,"July 2, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630554,Jason Preston,https://www.salaryswish.com/players/jason-preston,ROOKIE CONTRACT,LAC,"August 9, 2021",1836096,1836096," LAC - Oct 1, 2023",,ROOKIE CONTRACT
+2024,2023-24,1630554,Jason Preston,https://www.salaryswish.com/players/jason-preston,EXHIBIT 10,MEM,"October 16, 2023",2019706,2019706," MEM - Oct 18, 2023",,EXHIBIT 10
+2024,2023-24,1630554,Jason Preston,https://www.salaryswish.com/players/jason-preston,TWO-WAY CONTRACT (REST OF SEASON),UTA,"January 8, 2024",0,559782," UTA - Nov 22, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630606,Javonte Smart,https://www.salaryswish.com/players/javonte-smart,EXHIBIT 10,PHI,"August 13, 2023",1801769,1801769,,"This contract was converted to a Two-Way Contract contract ( PHI - Oct 21, 2023)",EXHIBIT 10
+2024,2023-24,1630606,Javonte Smart,https://www.salaryswish.com/players/javonte-smart,TWO-WAY CONTRACT,PHI,"October 21, 2023",0,559782," PHI - Dec 23, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1630643,Jay Huff,https://www.salaryswish.com/players/jay-huff,TWO-WAY CONTRACT,DEN,"July 18, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1629010,Jerome Robinson,https://www.salaryswish.com/players/jerome-robinson,TWO-WAY CONTRACT,GSW,"September 28, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630548,Johnny Juzang,https://www.salaryswish.com/players/johnny-juzang,TWO-WAY CONTRACT,UTA,"July 19, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1629007,Jontay Porter,https://www.salaryswish.com/players/jontay-porter,EXHIBIT 10,DET,"September 19, 2023",2019706,2019706," DET - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1629007,Jontay Porter,https://www.salaryswish.com/players/jontay-porter,TWO-WAY CONTRACT (REST OF SEASON),TOR,"December 8, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630259,Jordan Ford,https://www.salaryswish.com/players/jordan-ford,EXHIBIT 10,SAC,"September 12, 2023",1119563,1119563,,"This contract was converted to a Two-Way Contract contract ( SAC - Sep 14, 2023)",EXHIBIT 10
+2024,2023-24,1630259,Jordan Ford,https://www.salaryswish.com/players/jordan-ford,TWO-WAY CONTRACT,SAC,"September 14, 2023",0,559780,,,TWO-WAY CONTRACT
+2024,2023-24,1641757,Jordan Miller,https://www.salaryswish.com/players/jordan-miller,TWO-WAY CONTRACT,LAC,"August 7, 2023",0,559782,,"This contract was converted to a Veteran Contract contract ( LAC - Mar 1, 2025)",TWO-WAY CONTRACT
+2024,2023-24,1631262,Jules Bernard,https://www.salaryswish.com/players/jules-bernard,EXHIBIT 10,WAS,"October 1, 2023",1119563,1119563," WAS - Oct 19, 2023",,EXHIBIT 10
+2024,2023-24,1631262,Jules Bernard,https://www.salaryswish.com/players/jules-bernard,TWO-WAY CONTRACT (REST OF SEASON),WAS,"December 8, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631303,Justin Minaya,https://www.salaryswish.com/players/justin-minaya,EXHIBIT 10,POR,"October 2, 2023",1801769,1801769,,"This contract was converted to a Two-Way Contract contract ( POR - Oct 20, 2023)",EXHIBIT 10
+2024,2023-24,1631303,Justin Minaya,https://www.salaryswish.com/players/justin-minaya,TWO-WAY CONTRACT,POR,"October 20, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1629232,Kaiser Gates,https://www.salaryswish.com/players/kaiser-gates,TWO-WAY CONTRACT,NOP,"September 28, 2023",0,559782," NOP - Nov 3, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1630284,Kevon Harris,https://www.salaryswish.com/players/kevon-harris,TWO-WAY CONTRACT,ORL,"July 25, 2022",0,530943,,,TWO-WAY CONTRACT
+2024,2023-24,1641749,Keyontae Johnson,https://www.salaryswish.com/players/keyontae-johnson,EXHIBIT 10,OKC,"July 7, 2023",0,559782,,,EXHIBIT 10
+2024,2023-24,1641778,Leaky Black,https://www.salaryswish.com/players/leaky-black,TWO-WAY CONTRACT,CHA,"July 19, 2023",0,559782," CHA - Aug 1, 2024",,TWO-WAY CONTRACT
+2024,2023-24,1629623,Lindell Wigginton,https://www.salaryswish.com/players/lindell-wigginton,TWO-WAY CONTRACT (REST OF SEASON),MIL,"March 7, 2023",0,530943," MIL - Jan 7, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630608,Malcolm Cazalon,https://www.salaryswish.com/players/malcolm-cazalon,TWO-WAY CONTRACT,DET,"July 2, 2023",0,559782," DET - Feb 21, 2024",,TWO-WAY CONTRACT
+2024,2023-24,1641806,Markquis Nowell,https://www.salaryswish.com/players/markquis-nowell,TWO-WAY CONTRACT,TOR,"July 3, 2023",0,559782," TOR - Mar 4, 2024",,TWO-WAY CONTRACT
+2024,2023-24,1630222,Mason Jones,https://www.salaryswish.com/players/mason-jones,TWO-WAY CONTRACT (REST OF SEASON),SAC,"February 9, 2024",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630695,Micah Potter,https://www.salaryswish.com/players/micah-potter,TWO-WAY CONTRACT,UTA,"October 12, 2022",0,530943,,,TWO-WAY CONTRACT
+2024,2023-24,1631217,Moussa Diabate,https://www.salaryswish.com/players/moussa-diabate,TWO-WAY CONTRACT,LAC,"July 14, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630207,Nate Hinton,https://www.salaryswish.com/players/nate-hinton,EXHIBIT 10,HOU,"August 1, 2023",2019706,2019706," HOU - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1630207,Nate Hinton,https://www.salaryswish.com/players/nate-hinton,TWO-WAY CONTRACT,HOU,"October 23, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631466,Nate Williams,https://www.salaryswish.com/players/nate-williams,ROOKIE CONTRACT (REST OF SEASON),POR,"April 1, 2023",1719864,1719864," POR - Jul 28, 2023",,ROOKIE CONTRACT (REST OF SEASON)
+2024,2023-24,1631466,Nate Williams,https://www.salaryswish.com/players/nate-williams,EXHIBIT 10,HOU,"August 1, 2023",1801769,1801769,,"This contract was converted to a Two-Way Contract contract ( HOU - Oct 23, 2023)",EXHIBIT 10
+2024,2023-24,1631466,Nate Williams,https://www.salaryswish.com/players/nate-williams,TWO-WAY CONTRACT,HOU,"October 23, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1641877,Nathan Mensah,https://www.salaryswish.com/players/nathan-mensah,EXHIBIT 10,CHA,"September 5, 2023",1119563,1119563," CHA - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1641877,Nathan Mensah,https://www.salaryswish.com/players/nathan-mensah,TWO-WAY CONTRACT (REST OF SEASON),CHA,"December 14, 2023",0,559782," CHA - Mar 1, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630846,Olivier Sarr,https://www.salaryswish.com/players/olivier-sarr,TWO-WAY CONTRACT,OKC,"August 18, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631131,Oscar Tshiebwe,https://www.salaryswish.com/players/oscar-tshiebwe,TWO-WAY CONTRACT,IND,"July 3, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630311,Pat Spencer,https://www.salaryswish.com/players/pat-spencer,TWO-WAY CONTRACT (REST OF SEASON),GSW,"February 22, 2024",0,559782,,"This contract was converted to a Veteran Contract contract ( GSW - Mar 4, 2025)",TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631245,Quenton Jackson,https://www.salaryswish.com/players/quenton-jackson,TWO-WAY CONTRACT (REST OF SEASON),WAS,"February 10, 2023",0,530943," WAS - Jul 24, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631245,Quenton Jackson,https://www.salaryswish.com/players/quenton-jackson,EXHIBIT 10,CHI,"September 7, 2023",1801769,1801769," CHI - Oct 16, 2023",,EXHIBIT 10
+2024,2023-24,1631245,Quenton Jackson,https://www.salaryswish.com/players/quenton-jackson,TWO-WAY CONTRACT (REST OF SEASON),IND,"March 4, 2024",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630564,RaiQuan Gray,https://www.salaryswish.com/players/raiquan-gray,TWO-WAY CONTRACT (REST OF SEASON),BKN,"April 8, 2023",0,530943," BKN - Jul 18, 2023",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1630564,RaiQuan Gray,https://www.salaryswish.com/players/raiquan-gray,EXHIBIT 10,SAS,"September 27, 2023",1801769,1801769," SAS - Sep 30, 2023",,EXHIBIT 10
+2024,2023-24,1630564,RaiQuan Gray,https://www.salaryswish.com/players/raiquan-gray,TWO-WAY CONTRACT (REST OF SEASON),SAS,"March 2, 2024",0,559782," CHI - Jul 8, 2024",,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1631199,Ron Harper Jr.,https://www.salaryswish.com/players/ron-harper-jr,TWO-WAY CONTRACT,TOR,"July 20, 2023",0,559782," TOR - Dec 8, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1630240,Saben Lee,https://www.salaryswish.com/players/saben-lee,VETERAN CONTRACT,DET,"August 6, 2021",1902137,1902137," UTA - Oct 9, 2022",,VETERAN CONTRACT
+2024,2023-24,1630240,Saben Lee,https://www.salaryswish.com/players/saben-lee,TWO-WAY CONTRACT,PHX,"June 27, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630590,Scotty Pippen Jr.,https://www.salaryswish.com/players/scotty-pippen-jr,EXHIBIT 10,LAL,"September 7, 2023",1801769,1801769," LAL - Oct 16, 2023",,EXHIBIT 10
+2024,2023-24,1630590,Scotty Pippen Jr.,https://www.salaryswish.com/players/scotty-pippen-jr,TWO-WAY CONTRACT (REST OF SEASON),MEM,"January 16, 2024",0,559782,,"This contract was converted to a Veteran Contract contract ( MEM - Oct 15, 2024)",TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1641754,Seth Lundy,https://www.salaryswish.com/players/seth-lundy,TWO-WAY CONTRACT,ATL,"July 6, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1631173,Terquavion Smith,https://www.salaryswish.com/players/terquavion-smith,TWO-WAY CONTRACT,PHI,"July 1, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1630177,Theo Maledon,https://www.salaryswish.com/players/theo-maledon,ROOKIE CONTRACT,OKC,"December 9, 2020",1930681,1930681," HOU - Oct 11, 2022",,ROOKIE CONTRACT
+2024,2023-24,1630177,Theo Maledon,https://www.salaryswish.com/players/theo-maledon,TWO-WAY CONTRACT,CHA,"September 29, 2023",0,559782," CHA - Dec 14, 2023",,TWO-WAY CONTRACT
+2024,2023-24,1630243,Trevelin Queen,https://www.salaryswish.com/players/trevelin-queen,VETERAN CONTRACT,PHI,"July 1, 2022",1927896,1927896," PHI - Oct 9, 2022",,VETERAN CONTRACT
+2024,2023-24,1630243,Trevelin Queen,https://www.salaryswish.com/players/trevelin-queen,EXHIBIT 10,ORL,"September 12, 2023",2019706,2019706,,"This contract was converted to a Two-Way Contract contract ( ORL - Oct 21, 2023)",EXHIBIT 10
+2024,2023-24,1630243,Trevelin Queen,https://www.salaryswish.com/players/trevelin-queen,TWO-WAY CONTRACT,ORL,"October 21, 2023",0,559782,,,TWO-WAY CONTRACT
+2024,2023-24,1628962,Udoka Azubuike,https://www.salaryswish.com/players/udoka-azubuike,ROOKIE SCALE CONTRACT,UTA,"November 24, 2020",3923484,3923484,,,ROOKIE SCALE CONTRACT
+2024,2023-24,1628962,Udoka Azubuike,https://www.salaryswish.com/players/udoka-azubuike,TWO-WAY CONTRACT,PHX,"August 8, 2023",0,559782,,,SUMMER LEAGUE AND SUMMER CONDITIONING TWO-WAY CONTRACT
+2024,2023-24,1630249,Vit Krejci,https://www.salaryswish.com/players/vit-krejci,ROOKIE CONTRACT,OKC,"September 6, 2021",1836096,1836096," ATL - Aug 16, 2023",,ROOKIE CONTRACT
+2024,2023-24,1630249,Vit Krejci,https://www.salaryswish.com/players/vit-krejci,EXHIBIT 10,MIN,"September 14, 2023",2019706,2019706," MIN - Oct 18, 2023",,EXHIBIT 10
+2024,2023-24,1630249,Vit Krejci,https://www.salaryswish.com/players/vit-krejci,TWO-WAY CONTRACT (REST OF SEASON),ATL,"December 22, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2024,2023-24,1629875,Xavier Moon,https://www.salaryswish.com/players/xavier-moon,EXHIBIT 10,LAC,"September 19, 2023",2019706,2019706," LAC - Oct 21, 2023",,EXHIBIT 10
+2024,2023-24,1629875,Xavier Moon,https://www.salaryswish.com/players/xavier-moon,TWO-WAY CONTRACT (REST OF SEASON),LAC,"November 15, 2023",0,559782,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1630828,Alex Antetokounmpo,https://www.salaryswish.com/players/alex-antetokounmpo,UNKNOWN,MIL,"October 16, 2025",0,636434,,,UNKNOWN
+2026,2025-26,1631457,Alex Morales,https://www.salaryswish.com/players/alex-morales,UNKNOWN,ORL,"September 25, 2025",0,1272870," ORL - Oct 13, 2025",,UNKNOWN
+2026,2025-26,1642918,Alijah Martin,https://www.salaryswish.com/players/alijah-martin,TWO-WAY CONTRACT,TOR,"July 10, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1641810,Antonio Reeves,https://www.salaryswish.com/players/antonio-reeves,ROOKIE CONTRACT,NOP,"July 22, 2024",1955377,1955377," NOP - Jul 3, 2025",,ROOKIE CONTRACT
+2026,2025-26,1641810,Antonio Reeves,https://www.salaryswish.com/players/antonio-reeves,TWO-WAY CONTRACT,CHA,"July 25, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642396,Blake Hinson,https://www.salaryswish.com/players/blake-hinson,TWO-WAY CONTRACT,LAL,"July 3, 2024",0,623629," LAL - Sep 16, 2024",,TWO-WAY CONTRACT
+2026,2025-26,1642396,Blake Hinson,https://www.salaryswish.com/players/blake-hinson,UNKNOWN,POR,"September 25, 2025",0,1272870," POR - Sep 25, 2025",,UNKNOWN
+2026,2025-26,1642396,Blake Hinson,https://www.salaryswish.com/players/blake-hinson,TWO-WAY CONTRACT (REST OF SEASON),UTA,"February 9, 2026",0,230433," UTA - Oct 21, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642382,Branden Carlson,https://www.salaryswish.com/players/branden-carlson,TWO-WAY CONTRACT,OKC,"September 26, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642964,Brooks Barnhizer,https://www.salaryswish.com/players/brooks-barnhizer,TWO-WAY CONTRACT,OKC,"July 3, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1631205,Buddy Boeheim,https://www.salaryswish.com/players/buddy-boeheim,UNKNOWN,OKC,"October 14, 2025",0,2296274," OKC - Oct 15, 2025",,UNKNOWN
+2026,2025-26,1631205,Buddy Boeheim,https://www.salaryswish.com/players/buddy-boeheim,TWO-WAY CONTRACT (REST OF SEASON),OKC,"February 6, 2026",0,241406," OKC - Mar 2, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1643047,CJ Huntley,https://www.salaryswish.com/players/cj-huntley,TWO-WAY CONTRACT,PHX,"July 3, 2025",0,636434," PHX - Nov 17, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1643047,CJ Huntley,https://www.salaryswish.com/players/cj-huntley,TWO-WAY CONTRACT (REST OF SEASON),PHX,"March 2, 2026",0,153622," PHX - Oct 19, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631126,Caleb Love,https://www.salaryswish.com/players/caleb-love,TWO-WAY CONTRACT,POR,"July 1, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1643052,Chaney Johnson,https://www.salaryswish.com/players/chaney-johnson,UNKNOWN,CLE,"September 26, 2025",0,1272870," CLE - Oct 13, 2025",,UNKNOWN
+2026,2025-26,1643052,Chaney Johnson,https://www.salaryswish.com/players/chaney-johnson,TWO-WAY CONTRACT (REST OF SEASON),BKN,"December 26, 2025",0,395028,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1643024,Chris Mañon,https://www.salaryswish.com/players/chris-manon,TWO-WAY CONTRACT,LAL,"July 24, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642959,Chris Youngblood,https://www.salaryswish.com/players/chris-youngblood,UNKNOWN,OKC,"September 26, 2025",0,1272870,,"This contract was converted to a Two-Way Contract contract ( OKC - Oct 18, 2025)",UNKNOWN
+2026,2025-26,1642959,Chris Youngblood,https://www.salaryswish.com/players/chris-youngblood,TWO-WAY CONTRACT,OKC,"October 18, 2025",0,636434," OKC - Feb 6, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1642935,Chucky Hepburn,https://www.salaryswish.com/players/chucky-hepburn,TWO-WAY CONTRACT,TOR,"July 1, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1641732,Colby Jones,https://www.salaryswish.com/players/colby-jones,ROOKIE CONTRACT,SAC,"July 2, 2023",2221677,2221677," OKC - Jun 29, 2025",,ROOKIE CONTRACT
+2026,2025-26,1641732,Colby Jones,https://www.salaryswish.com/players/colby-jones,TWO-WAY CONTRACT,DET,"July 28, 2025",0,636434," DET - Nov 10, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1630658,Colin Castleton,https://www.salaryswish.com/players/colin-castleton,VETERAN CONTRACT (REST OF SEASON),TOR,"April 13, 2025",2191897,2191897," TOR - Jul 28, 2025",,VETERAN CONTRACT (REST OF SEASON)
+2026,2025-26,1630658,Colin Castleton,https://www.salaryswish.com/players/colin-castleton,UNKNOWN,ORL,"August 22, 2025",0,2296274,,"This contract was converted to a Two-Way Contract contract ( ORL - Oct 18, 2025)",UNKNOWN
+2026,2025-26,1630658,Colin Castleton,https://www.salaryswish.com/players/colin-castleton,TWO-WAY CONTRACT,ORL,"October 18, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642504,Cormac Ryan,https://www.salaryswish.com/players/cormac-ryan,UNKNOWN,MIL,"September 10, 2025",0,1272870," MIL - Oct 13, 2025",,UNKNOWN
+2026,2025-26,1642938,Curtis Jones,https://www.salaryswish.com/players/curtis-jones,TWO-WAY CONTRACT,DEN,"July 21, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1631342,Daeqwon Plowden,https://www.salaryswish.com/players/daeqwon-plowden,TWO-WAY CONTRACT (REST OF SEASON),ATL,"December 27, 2024",0,636434," PHX - Jul 6, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631342,Daeqwon Plowden,https://www.salaryswish.com/players/daeqwon-plowden,TWO-WAY CONTRACT,SAC,"July 30, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642468,Darius Brown,https://www.salaryswish.com/players/darius-brown,UNKNOWN,CLE,"October 13, 2025",0,1272870," CLE - Oct 16, 2025",,UNKNOWN
+2026,2025-26,1642468,Darius Brown,https://www.salaryswish.com/players/darius-brown,TWO-WAY CONTRACT (REST OF SEASON),CLE,"February 20, 2026",0,190199," CLE - Mar 3, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631223,David Roddy,https://www.salaryswish.com/players/david-roddy,ROOKIE SCALE CONTRACT,MEM,"July 1, 2022",4831766,4831766," ATL - Feb 7, 2025",,ROOKIE SCALE CONTRACT
+2026,2025-26,1631223,David Roddy,https://www.salaryswish.com/players/david-roddy,TWO-WAY CONTRACT (REST OF SEASON),HOU,"March 3, 2025",0,977689," ATL - Jul 7, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631223,David Roddy,https://www.salaryswish.com/players/david-roddy,UNKNOWN,TOR,"July 10, 2025",0,2378870," TOR - Oct 16, 2025",,UNKNOWN
+2026,2025-26,1631223,David Roddy,https://www.salaryswish.com/players/david-roddy,TWO-WAY CONTRACT (REST OF SEASON),DEN,"March 4, 2026",0,146307,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641809,Drew Peterson,https://www.salaryswish.com/players/drew-peterson,TWO-WAY CONTRACT,CHA,"July 16, 2025",0,636434," CHA - Dec 24, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642928,Dylan Cardwell,https://www.salaryswish.com/players/dylan-cardwell,TWO-WAY CONTRACT,SAC,"July 2, 2025",0,636434,,"This contract was converted to a Rookie Contract contract ( SAC - Feb 5, 2026)",TWO-WAY CONTRACT
+2026,2025-26,1641989,Elijah Harkless,https://www.salaryswish.com/players/elijah-harkless,TWO-WAY CONTRACT (REST OF SEASON),UTA,"January 1, 2025",0,636434,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641801,Emanuel Miller,https://www.salaryswish.com/players/emanuel-miller,TWO-WAY CONTRACT,CHI,"June 29, 2025",0,636434," CLE - Feb 20, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1641801,Emanuel Miller,https://www.salaryswish.com/players/emanuel-miller,TWO-WAY CONTRACT (REST OF SEASON),SAS,"February 23, 2026",0,179226," SAS - Jul 22, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642402,Enrique Freeman,https://www.salaryswish.com/players/enrique-freeman,TWO-WAY CONTRACT,MIN,"August 1, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1630679,Ethan Thompson,https://www.salaryswish.com/players/ethan-thompson,TWO-WAY CONTRACT (REST OF SEASON),ORL,"February 7, 2025",0,636434," ORL - Jul 23, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1630679,Ethan Thompson,https://www.salaryswish.com/players/ethan-thompson,UNKNOWN,MIA,"August 13, 2025",0,2048494," MIA - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1630679,Ethan Thompson,https://www.salaryswish.com/players/ethan-thompson,TWO-WAY CONTRACT (REST OF SEASON),IND,"November 30, 2025",0,508416," IND - Aug 13, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631127,Harrison Ingram,https://www.salaryswish.com/players/harrison-ingram,TWO-WAY CONTRACT,SAS,"June 28, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1630621,Hunter Dickinson,https://www.salaryswish.com/players/hunter-dickinson,TWO-WAY CONTRACT,NOP,"July 3, 2025",0,636434, NOP,,TWO-WAY CONTRACT
+2026,2025-26,1642282,Hunter Sallis,https://www.salaryswish.com/players/hunter-sallis,TWO-WAY CONTRACT,PHI,"June 29, 2025",0,636434," PHI - Dec 24, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642384,Isaiah Crawford,https://www.salaryswish.com/players/isaiah-crawford,TWO-WAY CONTRACT,HOU,"July 26, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1630587,Isaiah Livers,https://www.salaryswish.com/players/isaiah-livers,TWO-WAY CONTRACT,PHX,"July 8, 2025",0,636434,,,REFER TO THE DEAD CAP SECTION BELOW FOR DETAILS TWO-WAY CONTRACT
+2026,2025-26,1641815,Isaiah Stevens,https://www.salaryswish.com/players/isaiah-stevens,TWO-WAY CONTRACT,SAC,"July 8, 2025",0,636434," SAC - Jul 27, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1631210,Jacob Toppin,https://www.salaryswish.com/players/jacob-toppin,TWO-WAY CONTRACT,ATL,"June 28, 2025",0,636434," ATL - Dec 15, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1643141,Jahmyl Telfort,https://www.salaryswish.com/players/jahmyl-telfort,UNKNOWN,LAC,"September 26, 2025",0,1272870,,"This contract was converted to a Two-Way Contract contract ( LAC - Oct 18, 2025)",UNKNOWN
+2026,2025-26,1643141,Jahmyl Telfort,https://www.salaryswish.com/players/jahmyl-telfort,TWO-WAY CONTRACT,LAC,"October 18, 2025",0,636434," LAC - Dec 4, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1641771,Jalen Slawson,https://www.salaryswish.com/players/jalen-slawson,UNKNOWN,IND,"September 9, 2025",0,2048494," IND - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1641771,Jalen Slawson,https://www.salaryswish.com/players/jalen-slawson,TWO-WAY CONTRACT (REST OF SEASON),IND,"February 28, 2026",0,160937,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631451,Javonte Cooke,https://www.salaryswish.com/players/javonte-cooke,UNKNOWN,POR,"September 30, 2025",0,1272870," POR - Oct 17, 2025",,UNKNOWN
+2026,2025-26,1631451,Javonte Cooke,https://www.salaryswish.com/players/javonte-cooke,TWO-WAY CONTRACT,POR,"October 20, 2025",0,636434," POR - Mar 3, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1642967,John Poulakidas,https://www.salaryswish.com/players/john-poulakidas,UNKNOWN,LAC,"September 26, 2025",0,1272870," LAC - Oct 13, 2025",,UNKNOWN
+2026,2025-26,1642967,John Poulakidas,https://www.salaryswish.com/players/john-poulakidas,TWO-WAY CONTRACT (REST OF SEASON),DAL,"February 28, 2026",0,160937," DAL - Oct 17, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1630548,Johnny Juzang,https://www.salaryswish.com/players/johnny-juzang,VETERAN CONTRACT,UTA,"August 12, 2024",2840518,2840518," UTA - Jun 30, 2025",,VETERAN CONTRACT
+2026,2025-26,1630548,Johnny Juzang,https://www.salaryswish.com/players/johnny-juzang,UNKNOWN,MIN,"September 15, 2025",0,2378870,,"This contract was converted to a Two-Way Contract contract ( MIN - Oct 18, 2025)",UNKNOWN
+2026,2025-26,1630548,Johnny Juzang,https://www.salaryswish.com/players/johnny-juzang,TWO-WAY CONTRACT,MIN,"October 18, 2025",0,636434," MIN - Feb 18, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1642490,Josh Oduro,https://www.salaryswish.com/players/josh-oduro,UNKNOWN,NOP,"October 8, 2025",0,1272870," NOP - Oct 13, 2025",,UNKNOWN
+2026,2025-26,1642490,Josh Oduro,https://www.salaryswish.com/players/josh-oduro,TWO-WAY CONTRACT (REST OF SEASON),NOP,"March 4, 2026",0,146307,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642882,Julian Reese,https://www.salaryswish.com/players/julian-reese,UNKNOWN,TOR,"October 16, 2025",0,1272870," TOR - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1642882,Julian Reese,https://www.salaryswish.com/players/julian-reese,TWO-WAY CONTRACT (REST OF SEASON),WAS,"February 28, 2026",0,160937," DEN - Aug 28, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642354,KJ Simpson,https://www.salaryswish.com/players/k-j-simpson,TWO-WAY CONTRACT,CHA,"July 7, 2024",0,623629," CHA - Feb 6, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1642354,KJ Simpson,https://www.salaryswish.com/players/k-j-simpson,TWO-WAY CONTRACT (REST OF SEASON),DEN,"February 19, 2026",0,193856," DEN - Sep 30, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641755,Kevin McCullar Jr.,https://www.salaryswish.com/players/kevin-mccullar-jr,TWO-WAY CONTRACT,NYK,"September 16, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642886,Koby Brea,https://www.salaryswish.com/players/koby-brea,TWO-WAY CONTRACT,PHX,"July 7, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1643018,LJ Cryer,https://www.salaryswish.com/players/lj-cryer,UNKNOWN,GSW,"September 29, 2025",0,1272870," GSW - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1642950,Lachlan Olbrich,https://www.salaryswish.com/players/lachlan-olbrich,TWO-WAY CONTRACT,CHI,"July 2, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1641778,Leaky Black,https://www.salaryswish.com/players/leaky-black,UNKNOWN,WAS,"October 2, 2025",0,2048494," WAS - Oct 13, 2025",,UNKNOWN
+2026,2025-26,1641778,Leaky Black,https://www.salaryswish.com/players/leaky-black,TWO-WAY CONTRACT (REST OF SEASON),WAS,"February 21, 2026",0,186541," WAS - Jul 1, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631247,Luke Travers,https://www.salaryswish.com/players/luke-travers,TWO-WAY CONTRACT,CLE,"July 1, 2025",0,636434," CLE - Jan 31, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1642502,Malevy Leons,https://www.salaryswish.com/players/malevy-leons,UNKNOWN,OKC,"July 30, 2025",0,2048494," OKC - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1630699,MarJon Beauchamp,https://www.salaryswish.com/players/marjon-beauchamp,ROOKIE SCALE CONTRACT,MIL,"July 6, 2022",4781276,4781276," LAC - Mar 1, 2025",,ROOKIE SCALE CONTRACT
+2026,2025-26,1630699,MarJon Beauchamp,https://www.salaryswish.com/players/marjon-beauchamp,UNKNOWN,POR,"September 30, 2025",0,2378870," POR - Oct 7, 2025",,UNKNOWN
+2026,2025-26,1630699,MarJon Beauchamp,https://www.salaryswish.com/players/marjon-beauchamp,UNKNOWN,PHI,"October 15, 2025",0,2378870," PHI - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1630699,MarJon Beauchamp,https://www.salaryswish.com/players/marjon-beauchamp,TWO-WAY CONTRACT (REST OF SEASON),PHI,"December 26, 2025",0,395028,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641813,Mark Sears,https://www.salaryswish.com/players/mark-sears,TWO-WAY CONTRACT,MIL,"July 3, 2025",0,636434," MIL - Jan 7, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1642939,Miles Kelly,https://www.salaryswish.com/players/miles-kelly,TWO-WAY CONTRACT,DAL,"July 3, 2025",0,636434," DAL - Mar 1, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1630619,Moussa Cisse,https://www.salaryswish.com/players/moussa-cisse,EXHIBIT 10,DAL,"July 8, 2025",0,1272870,,"This contract was converted to a Two-Way Contract contract ( DAL - Oct 18, 2025)",EXHIBIT 10
+2026,2025-26,1630619,Moussa Cisse,https://www.salaryswish.com/players/moussa-cisse,TWO-WAY CONTRACT,DAL,"October 18, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1631466,Nate Williams,https://www.salaryswish.com/players/nate-williams,VETERAN CONTRACT (REST OF SEASON),HOU,"March 2, 2025",2270735,2270735," HOU - Jul 14, 2025",,VETERAN CONTRACT (REST OF SEASON)
+2026,2025-26,1631466,Nate Williams,https://www.salaryswish.com/players/nate-williams,UNKNOWN,LAL,"September 27, 2025",0,2378870," LAL - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1631466,Nate Williams,https://www.salaryswish.com/players/nate-williams,TWO-WAY CONTRACT (REST OF SEASON),GSW,"February 17, 2026",0,201172,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641807,Norchad Omier,https://www.salaryswish.com/players/norchad-omier,UNKNOWN,CLE,"September 26, 2025",0,1272870," CLE - Oct 15, 2025",,UNKNOWN
+2026,2025-26,1641807,Norchad Omier,https://www.salaryswish.com/players/norchad-omier,TWO-WAY CONTRACT (REST OF SEASON),LAC,"February 20, 2026",0,190199,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1630846,Olivier Sarr,https://www.salaryswish.com/players/olivier-sarr,UNKNOWN,TOR,"August 1, 2025",0,2378870," TOR - Oct 16, 2025",,UNKNOWN
+2026,2025-26,1630846,Olivier Sarr,https://www.salaryswish.com/players/olivier-sarr,TWO-WAY CONTRACT (REST OF SEASON),CLE,"March 3, 2026",0,149964,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1631115,Orlando Robinson,https://www.salaryswish.com/players/orlando-robinson,TWO-WAY CONTRACT,ORL,"July 21, 2025",0,636434," ORL - Feb 17, 2026",,REFER TO THE DEAD CAP SECTION BELOW FOR DETAILS TWO-WAY CONTRACT
+2026,2025-26,1631131,Oscar Tshiebwe,https://www.salaryswish.com/players/oscar-tshiebwe,TWO-WAY CONTRACT,UTA,"August 18, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1641790,PJ Hall,https://www.salaryswish.com/players/pj-hall,TWO-WAY CONTRACT,MEM,"July 20, 2025",0,636434," MEM - Nov 16, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642362,Payton Sandfort,https://www.salaryswish.com/players/payton-sandfort,UNKNOWN,OKC,"October 13, 2025",0,1272870," OKC - Oct 14, 2025",,UNKNOWN
+2026,2025-26,1642362,Payton Sandfort,https://www.salaryswish.com/players/payton-sandfort,TWO-WAY CONTRACT (REST OF SEASON),OKC,"March 2, 2026",0,153622," OKC - Jul 2, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642484,RayJ Dennis,https://www.salaryswish.com/players/rayj-dennis,TWO-WAY CONTRACT,IND,"January 3, 2025",0,977689," IND - Nov 30, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642484,RayJ Dennis,https://www.salaryswish.com/players/rayj-dennis,TWO-WAY CONTRACT (REST OF SEASON),LAC,"December 4, 2025",0,475497," LAC - Dec 27, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642434,Riley Minix,https://www.salaryswish.com/players/riley-minix,TWO-WAY CONTRACT,SAS,"June 28, 2025",0,636434," SAS - Dec 12, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642951,Sean Pedulla,https://www.salaryswish.com/players/sean-pedulla,UNKNOWN,POR,"October 8, 2025",0,1272870," POR - Oct 7, 2025",,UNKNOWN
+2026,2025-26,1642951,Sean Pedulla,https://www.salaryswish.com/players/sean-pedulla,TWO-WAY CONTRACT (REST OF SEASON),LAC,"February 19, 2026",0,193856," LAC - Aug 5, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1630536,Sharife Cooper,https://www.salaryswish.com/players/sharife-cooper,TWO-WAY CONTRACT,WAS,"September 19, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1630649,Stanley Umude,https://www.salaryswish.com/players/stanley-umude,UNKNOWN,SAS,"September 2, 2025",0,2378870," SAS - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1630649,Stanley Umude,https://www.salaryswish.com/players/stanley-umude,TWO-WAY CONTRACT,SAS,"December 21, 2025",0,413316," SAS - Feb 23, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1643007,Taelon Peter,https://www.salaryswish.com/players/taelon-peter,TWO-WAY CONTRACT,IND,"July 24, 2025",0,636434," IND - Jul 20, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1641787,Tosan Evbuomwan,https://www.salaryswish.com/players/tosan-evbuomwan,TWO-WAY CONTRACT (REST OF SEASON),BKN,"January 1, 2025",0,977689," BKN - Aug 29, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641787,Tosan Evbuomwan,https://www.salaryswish.com/players/tosan-evbuomwan,TWO-WAY CONTRACT,NYK,"September 16, 2025",0,636434," NYK - Jan 7, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1641787,Tosan Evbuomwan,https://www.salaryswish.com/players/tosan-evbuomwan,TWO-WAY CONTRACT (REST OF SEASON),CHA,"February 6, 2026",0,241406," CHA - Jul 6, 2026",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642280,Trentyn Flowers,https://www.salaryswish.com/players/trentyn-flowers,TWO-WAY CONTRACT,LAC,"June 29, 2025",0,636434," LAC - Oct 14, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642280,Trentyn Flowers,https://www.salaryswish.com/players/trentyn-flowers,TWO-WAY CONTRACT,CHI,"October 17, 2025",0,636434," CHI - Jan 6, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1631211,Trevor Keels,https://www.salaryswish.com/players/trevor-keels,UNKNOWN,MIA,"September 11, 2025",0,2048494," MIA - Oct 9, 2025",,UNKNOWN
+2026,2025-26,1631211,Trevor Keels,https://www.salaryswish.com/players/trevor-keels,TWO-WAY CONTRACT (REST OF SEASON),MIA,"February 18, 2026",0,197514,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641725,Trey Alexander,https://www.salaryswish.com/players/trey-alexander,TWO-WAY CONTRACT,NOP,"July 3, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1641998,Trey Jemison,https://www.salaryswish.com/players/trey-jemison,TWO-WAY CONTRACT (REST OF SEASON),LAL,"January 15, 2025",0,636434," LAL - Jul 21, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1641998,Trey Jemison,https://www.salaryswish.com/players/trey-jemison,TWO-WAY CONTRACT,NYK,"September 16, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642400,Tristan Enaruna,https://www.salaryswish.com/players/tristan-enaruna,UNKNOWN,CLE,"September 26, 2025",0,1272870," CLE - Oct 15, 2025",,UNKNOWN
+2026,2025-26,1641803,Tristen Newton,https://www.salaryswish.com/players/tristen-newton,TWO-WAY CONTRACT,MIN,"September 15, 2025",0,636434," MIN - Oct 18, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1641803,Tristen Newton,https://www.salaryswish.com/players/tristen-newton,TWO-WAY CONTRACT,HOU,"January 3, 2026",0,365767," HOU - Aug 26, 2026",,TWO-WAY CONTRACT
+2026,2025-26,1631102,TyTy Washington Jr.,https://www.salaryswish.com/players/tyty-washington-jr,ROOKIE SCALE CONTRACT,HOU,"July 1, 2022",4388099,4388099," OKC - Aug 18, 2023",,ROOKIE SCALE CONTRACT
+2026,2025-26,1631102,TyTy Washington Jr.,https://www.salaryswish.com/players/tyty-washington-jr,UNKNOWN,LAC,"August 7, 2025",0,2378870," LAC - Sep 26, 2025",,UNKNOWN
+2026,2025-26,1631102,TyTy Washington Jr.,https://www.salaryswish.com/players/tyty-washington-jr,UNKNOWN,LAC,"October 13, 2025",0,2378870," LAC - Oct 18, 2025",,UNKNOWN
+2026,2025-26,1631102,TyTy Washington Jr.,https://www.salaryswish.com/players/tyty-washington-jr,TWO-WAY CONTRACT (REST OF SEASON),LAC,"December 27, 2025",0,391370,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1630623,Tyson Etienne,https://www.salaryswish.com/players/tyson-etienne,TWO-WAY CONTRACT,BKN,"July 3, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1642884,Vladislav Goldin,https://www.salaryswish.com/players/vladislav-goldin,TWO-WAY CONTRACT,MIA,"July 2, 2025",0,636434,,,TWO-WAY CONTRACT
+2026,2025-26,1631111,Wendell Moore Jr.,https://www.salaryswish.com/players/wendell-moore-jr,ROOKIE SCALE CONTRACT,MIN,"July 5, 2022",4574283,4574283," DET - Feb 6, 2025",,ROOKIE SCALE CONTRACT
+2026,2025-26,1631111,Wendell Moore Jr.,https://www.salaryswish.com/players/wendell-moore-jr,UNKNOWN,BOS,"September 26, 2025",0,2378870," BOS - Oct 16, 2025",,UNKNOWN
+2026,2025-26,1631111,Wendell Moore Jr.,https://www.salaryswish.com/players/wendell-moore-jr,TWO-WAY CONTRACT (REST OF SEASON),DET,"November 10, 2025",0,563281,,,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642530,Yuki Kawamura,https://www.salaryswish.com/players/yuki-kawamura,TWO-WAY CONTRACT,CHI,"July 19, 2025",0,636434," CHI - Oct 18, 2025",,TWO-WAY CONTRACT
+2026,2025-26,1642530,Yuki Kawamura,https://www.salaryswish.com/players/yuki-kawamura,TWO-WAY CONTRACT,CHI,"January 6, 2026",0,354794,,,TWO-WAY CONTRACT
+2026,2025-26,1642389,Zyon Pullin,https://www.salaryswish.com/players/zyon-pullin,TWO-WAY CONTRACT (REST OF SEASON),MEM,"January 10, 2025",0,636434," MEM - Jul 20, 2025",,TWO-WAY CONTRACT (REST OF SEASON)
+2026,2025-26,1642389,Zyon Pullin,https://www.salaryswish.com/players/zyon-pullin,UNKNOWN,MIN,"September 28, 2025",0,2048494," MIN - Oct 18, 2025",,UNKNOWN

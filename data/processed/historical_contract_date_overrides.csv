@@ -1,0 +1,5 @@
+season,player_id,name,team,start_date,end_date_exclusive,source_url,contract_status
+2023,1629633,Jarrett Culver,ATL,2022-09-12,2023-01-14,https://atlantahawkspr.wordpress.com/wp-content/uploads/2023/01/culver-1.14.23.pdf,two_way
+2023,1629623,Lindell Wigginton,MIL,2023-03-07,2024-01-07,https://basketball.realgm.com/player/Lindell-Wigginton/Summary/76942,two_way
+2024,1629623,Lindell Wigginton,MIL,2023-03-07,2024-01-07,https://basketball.realgm.com/player/Lindell-Wigginton/Summary/76942,two_way
+2026,1630621,Hunter Dickinson,NOP,2025-07-03,2026-08-18,https://www.basketball-reference.com/teams/NOP/2027_transactions.html,two_way

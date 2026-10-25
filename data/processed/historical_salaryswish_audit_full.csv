@@ -1,0 +1,231 @@
+season,player_id,name,status,contracts_found,error,source_url
+2019,203474,DJ Stephens,error,0,Contract history not found,https://www.salaryswish.com/players/dj-stephens
+2019,1629152,DeVaughn Akoon-Purcell,no_season_contract,0,,https://www.salaryswish.com/players/devaughn-akoon-purcell
+2019,1627883,Jalen Jones,error,0,Contract history not found,https://www.salaryswish.com/players/jalen-jones
+2019,1628537,Jaylen Morris,no_season_contract,0,,https://www.salaryswish.com/players/jaylen-morris
+2019,204066,John Holland,error,0,Contract history not found,https://www.salaryswish.com/players/john-holland
+2019,1629093,Tyler Davis,error,0,Contract history not found,https://www.salaryswish.com/players/tyler-davis
+2019,1627755,Tyler Ulis,error,0,Contract history not found,https://www.salaryswish.com/players/tyler-ulis
+2019,1629155,Zach Lofton,error,0,Contract history not found,https://www.salaryswish.com/players/zach-lofton
+2020,1629133,Daryl Macon,error,0,Contract history not found,https://www.salaryswish.com/players/daryl-macon
+2020,1627740,Henry Ellenson,success,3,,https://www.salaryswish.com/players/henry-ellenson
+2020,1628443,Kadeem Allen,success,1,,https://www.salaryswish.com/players/kadeem-allen
+2020,1629657,Kyle Guy,success,1,,https://www.salaryswish.com/players/kyle-guy
+2020,1629044,Shamorie Ponds,success,1,,https://www.salaryswish.com/players/shamorie-ponds
+2021,1630204,Ashton Hagans,success,1,,https://www.salaryswish.com/players/ashton-hagans
+2021,1629751,Dakota Mathias,success,1,,https://www.salaryswish.com/players/dakota-mathias
+2021,1628412,Frank Mason III,success,2,,https://www.salaryswish.com/players/frank-mason-iii
+2021,1629121,Jaylen Adams,success,1,,https://www.salaryswish.com/players/jaylen-adams
+2021,1629648,Jordan Bone,success,1,,https://www.salaryswish.com/players/jordan-bone
+2021,1629034,Ray Spalding,error,0,Contract history not found,https://www.salaryswish.com/players/ray-spalding
+2023,1630639,A.J. Lawson,success,3,,https://www.salaryswish.com/players/aj-lawson
+2023,1631260,AJ Green,success,1,,https://www.salaryswish.com/players/aj-green
+2023,1631214,Alondes Williams,success,1,,https://www.salaryswish.com/players/alondes-williams
+2023,1630296,Braxton Key,success,1,,https://www.salaryswish.com/players/braxton-key
+2023,1631205,Buddy Boeheim,success,1,,https://www.salaryswish.com/players/buddy-boeheim
+2023,1631306,Cole Swider,success,1,,https://www.salaryswish.com/players/cole-swider
+2023,1630620,Darius Days,success,3,,https://www.salaryswish.com/players/darius-days
+2023,1631220,Dereon Seabron,success,2,,https://www.salaryswish.com/players/dereon-seabron
+2023,1629653,Devon Dotson,success,2,,https://www.salaryswish.com/players/devon-dotson
+2023,1631230,Dominick Barlow,success,1,,https://www.salaryswish.com/players/dominick-barlow
+2023,1631495,Donovan Williams,success,2,,https://www.salaryswish.com/players/donovan-williams
+2023,1630696,Dru Smith,success,4,,https://www.salaryswish.com/players/dru-smith
+2023,1630613,Duane Washington Jr.,success,3,,https://www.salaryswish.com/players/duane-washington-jr
+2023,1628221,Gabe York,success,2,,https://www.salaryswish.com/players/gabe-york
+2023,1630600,Isaiah Mobley,success,1,,https://www.salaryswish.com/players/isaiah-mobley
+2023,1631120,JD Davison,success,1,,https://www.salaryswish.com/players/jd-davison
+2023,1631298,Jack White,success,1,,https://www.salaryswish.com/players/jack-white
+2023,1631367,Jacob Gilyard,success,2,,https://www.salaryswish.com/players/jacob-gilyard
+2023,1631288,Jamal Cain,success,2,,https://www.salaryswish.com/players/jamal-cain
+2023,1631197,Jared Rhoden,success,2,,https://www.salaryswish.com/players/jared-rhoden
+2023,1629633,Jarrett Culver,success,2,,https://www.salaryswish.com/players/jarrett-culver
+2023,1630643,Jay Huff,success,2,,https://www.salaryswish.com/players/jay-huff
+2023,1630206,Jay Scrubb,success,3,,https://www.salaryswish.com/players/jay-scrubb
+2023,1630288,Jeff Dowtin Jr.,success,1,,https://www.salaryswish.com/players/jeff-dowtin
+2023,1631219,John Butler Jr.,success,2,,https://www.salaryswish.com/players/john-butler-jr
+2023,1630548,Johnny Juzang,success,1,,https://www.salaryswish.com/players/johnny-juzang
+2023,1630648,Jordan Schakel,success,1,,https://www.salaryswish.com/players/jordan-schakel
+2023,1630577,Julian Champagnie,success,1,,https://www.salaryswish.com/players/julian-champagnie
+2023,1631112,Kendall Brown,success,1,,https://www.salaryswish.com/players/kendall-brown
+2023,1631165,Keon Ellis,success,1,,https://www.salaryswish.com/players/keon-ellis
+2023,1630284,Kevon Harris,success,1,,https://www.salaryswish.com/players/kevon-harris
+2023,1629623,Lindell Wigginton,success,2,,https://www.salaryswish.com/players/lindell-wigginton
+2023,1629663,Louis King,success,1,,https://www.salaryswish.com/players/louis-king
+2023,1630568,Luka Garza,success,3,,https://www.salaryswish.com/players/luka-garza
+2023,1630644,Mac McClung,success,3,,https://www.salaryswish.com/players/mac-mcclung
+2023,1630792,Malcolm Hill,success,1,,https://www.salaryswish.com/players/malcolm-hill
+2023,1629603,Mamadi Diakite,success,3,,https://www.salaryswish.com/players/mamadi-diakite
+2023,1630593,McKinley Wright IV,success,2,,https://www.salaryswish.com/players/mckinley-wright-iv
+2023,1629662,Mfiondu Kabengele,success,3,,https://www.salaryswish.com/players/mfiondu-kabengele
+2023,1630695,Micah Potter,success,2,,https://www.salaryswish.com/players/micah-potter
+2023,1630701,Michael Foster Jr.,success,2,,https://www.salaryswish.com/players/michael-foster-jr
+2023,1631217,Moussa Diabate,success,1,,https://www.salaryswish.com/players/moussa-diabate
+2023,1629674,Neemias Queta,success,1,,https://www.salaryswish.com/players/neemias-queta
+2023,1630846,Olivier Sarr,success,3,,https://www.salaryswish.com/players/olivier-sarr
+2023,1631115,Orlando Robinson,success,3,,https://www.salaryswish.com/players/orlando-robinson
+2023,1631245,Quenton Jackson,success,2,,https://www.salaryswish.com/players/quenton-jackson
+2023,1630564,RaiQuan Gray,success,3,,https://www.salaryswish.com/players/raiquan-gray
+2023,1631199,Ron Harper Jr.,success,1,,https://www.salaryswish.com/players/ron-harper-jr
+2023,1630590,Scotty Pippen Jr.,success,1,,https://www.salaryswish.com/players/scotty-pippen-jr
+2023,1630235,Trent Forrest,success,1,,https://www.salaryswish.com/players/trent-forrest
+2023,1631309,Trevor Hudgins,success,1,,https://www.salaryswish.com/players/trevor-hudgins
+2023,1628416,Tyler Dorsey,success,1,,https://www.salaryswish.com/players/tyler-dorsey
+2023,1631246,Vince Williams Jr.,success,1,,https://www.salaryswish.com/players/vince-williams-jr
+2023,1629875,Xavier Moon,success,2,,https://www.salaryswish.com/players/xavier-moon
+2024,1641745,Adam Flagler,success,2,,https://www.salaryswish.com/players/adam-flagler
+2024,1641766,Adama Sanogo,success,1,,https://www.salaryswish.com/players/adama-sanogo
+2024,1629678,Admiral Schofield,success,2,,https://www.salaryswish.com/players/admiral-schofield
+2024,1641788,Alex Fudge,success,2,,https://www.salaryswish.com/players/alex-fudge
+2024,1631214,Alondes Williams,success,2,,https://www.salaryswish.com/players/alondes-williams
+2024,1641735,Amari Bailey,success,1,,https://www.salaryswish.com/players/amari-bailey
+2024,1641847,Andrew Funk,success,2,,https://www.salaryswish.com/players/andrew-funk
+2024,1629717,Armoni Brooks,success,2,,https://www.salaryswish.com/players/armoni-brooks
+2024,1630314,Brandon Williams,success,2,,https://www.salaryswish.com/players/brandon-williams
+2024,1630296,Braxton Key,success,1,,https://www.salaryswish.com/players/braxton-key
+2024,1631205,Buddy Boeheim,success,2,,https://www.salaryswish.com/players/buddy-boeheim
+2024,1629718,Charlie Brown Jr.,success,2,,https://www.salaryswish.com/players/charlie-brown-jr
+2024,1631306,Cole Swider,success,3,,https://www.salaryswish.com/players/cole-swider
+2024,1630658,Colin Castleton,success,1,,https://www.salaryswish.com/players/colin-castleton
+2024,1631221,Collin Gillespie,success,1,,https://www.salaryswish.com/players/collin-gillespie
+2024,1641793,D'Moi Hodge,error,0,Contract history not found,https://www.salaryswish.com/players/d-moi-hodge
+2024,1630227,Daishen Nix,success,3,,https://www.salaryswish.com/players/daishen-nix
+2024,1630561,David Duke Jr.,success,2,,https://www.salaryswish.com/players/david-duke-jr
+2024,1631220,Dereon Seabron,success,1,,https://www.salaryswish.com/players/dereon-seabron
+2024,1641926,Dexter Dennis,success,2,,https://www.salaryswish.com/players/dexter-dennis
+2024,1631376,Dmytro Skapintsev,success,2,,https://www.salaryswish.com/players/dmytro-skapintsev
+2024,1641809,Drew Peterson,success,2,,https://www.salaryswish.com/players/drew-peterson
+2024,1641734,Emoni Bates,success,1,,https://www.salaryswish.com/players/emoni-bates
+2024,1630535,Greg Brown III,success,3,,https://www.salaryswish.com/players/greg-brown-iii
+2024,1630929,Henri Drell,success,2,,https://www.salaryswish.com/players/henri-drell
+2024,1630641,Ibou Badji,success,2,,https://www.salaryswish.com/players/ibou-badji
+2024,1630600,Isaiah Mobley,success,1,,https://www.salaryswish.com/players/isaiah-mobley
+2024,1631209,Isaiah Wong,success,1,,https://www.salaryswish.com/players/isaiah-wong
+2024,1631120,JD Davison,success,1,,https://www.salaryswish.com/players/jd-davison
+2024,1631367,Jacob Gilyard,success,2,,https://www.salaryswish.com/players/jacob-gilyard
+2024,1641771,Jalen Slawson,success,1,,https://www.salaryswish.com/players/jalen-slawson
+2024,1631288,Jamal Cain,success,1,,https://www.salaryswish.com/players/jamal-cain
+2024,1631123,Jamaree Bouyea,success,3,,https://www.salaryswish.com/players/jamaree-bouyea
+2024,1631197,Jared Rhoden,success,1,,https://www.salaryswish.com/players/jared-rhoden
+2024,1630554,Jason Preston,success,3,,https://www.salaryswish.com/players/jason-preston
+2024,1630606,Javonte Smart,success,2,,https://www.salaryswish.com/players/javonte-smart
+2024,1630643,Jay Huff,success,1,,https://www.salaryswish.com/players/jay-huff
+2024,1631257,Jermaine Samuels Jr.,error,0,Contract history not found,https://www.salaryswish.com/players/jermaine-samuels-jr
+2024,1629010,Jerome Robinson,success,1,,https://www.salaryswish.com/players/jerome-robinson
+2024,1630548,Johnny Juzang,success,1,,https://www.salaryswish.com/players/johnny-juzang
+2024,1629007,Jontay Porter,success,2,,https://www.salaryswish.com/players/jontay-porter
+2024,1630259,Jordan Ford,success,2,,https://www.salaryswish.com/players/jordan-ford
+2024,1641757,Jordan Miller,success,1,,https://www.salaryswish.com/players/jordan-miller
+2024,1631262,Jules Bernard,success,2,,https://www.salaryswish.com/players/jules-bernard
+2024,1631303,Justin Minaya,success,2,,https://www.salaryswish.com/players/justin-minaya
+2024,1629232,Kaiser Gates,success,1,,https://www.salaryswish.com/players/kaiser-gates
+2024,1630284,Kevon Harris,success,1,,https://www.salaryswish.com/players/kevon-harris
+2024,1641749,Keyontae Johnson,success,1,,https://www.salaryswish.com/players/keyontae-johnson
+2024,1641778,Leaky Black,success,1,,https://www.salaryswish.com/players/leaky-black
+2024,1629623,Lindell Wigginton,success,1,,https://www.salaryswish.com/players/lindell-wigginton
+2024,1630608,Malcolm Cazalon,success,1,,https://www.salaryswish.com/players/malcolm-cazalon
+2024,1641806,Markquis Nowell,success,1,,https://www.salaryswish.com/players/markquis-nowell
+2024,1630222,Mason Jones,success,1,,https://www.salaryswish.com/players/mason-jones
+2024,1630695,Micah Potter,success,1,,https://www.salaryswish.com/players/micah-potter
+2024,1631217,Moussa Diabate,success,1,,https://www.salaryswish.com/players/moussa-diabate
+2024,1630207,Nate Hinton,success,2,,https://www.salaryswish.com/players/nate-hinton
+2024,1631466,Nate Williams,success,3,,https://www.salaryswish.com/players/nate-williams
+2024,1641877,Nathan Mensah,success,2,,https://www.salaryswish.com/players/nathan-mensah
+2024,1630846,Olivier Sarr,success,1,,https://www.salaryswish.com/players/olivier-sarr
+2024,1631131,Oscar Tshiebwe,success,1,,https://www.salaryswish.com/players/oscar-tshiebwe
+2024,1630311,Pat Spencer,success,1,,https://www.salaryswish.com/players/pat-spencer
+2024,1631245,Quenton Jackson,success,3,,https://www.salaryswish.com/players/quenton-jackson
+2024,1630564,RaiQuan Gray,success,3,,https://www.salaryswish.com/players/raiquan-gray
+2024,1631199,Ron Harper Jr.,success,1,,https://www.salaryswish.com/players/ron-harper-jr
+2024,1630240,Saben Lee,success,2,,https://www.salaryswish.com/players/saben-lee
+2024,1630590,Scotty Pippen Jr.,success,2,,https://www.salaryswish.com/players/scotty-pippen-jr
+2024,1641754,Seth Lundy,success,1,,https://www.salaryswish.com/players/seth-lundy
+2024,1631173,Terquavion Smith,success,1,,https://www.salaryswish.com/players/terquavion-smith
+2024,1630177,Theo Maledon,success,2,,https://www.salaryswish.com/players/theo-maledon
+2024,1630243,Trevelin Queen,success,3,,https://www.salaryswish.com/players/trevelin-queen
+2024,1628962,Udoka Azubuike,success,2,,https://www.salaryswish.com/players/udoka-azubuike
+2024,1630249,Vit Krejci,success,3,,https://www.salaryswish.com/players/vit-krejci
+2024,1629875,Xavier Moon,success,2,,https://www.salaryswish.com/players/xavier-moon
+2026,1630828,Alex Antetokounmpo,success,1,,https://www.salaryswish.com/players/alex-antetokounmpo
+2026,1631457,Alex Morales,success,1,,https://www.salaryswish.com/players/alex-morales
+2026,1642918,Alijah Martin,success,1,,https://www.salaryswish.com/players/alijah-martin
+2026,1641810,Antonio Reeves,success,2,,https://www.salaryswish.com/players/antonio-reeves
+2026,1642396,Blake Hinson,success,3,,https://www.salaryswish.com/players/blake-hinson
+2026,1642382,Branden Carlson,success,1,,https://www.salaryswish.com/players/branden-carlson
+2026,1642964,Brooks Barnhizer,success,1,,https://www.salaryswish.com/players/brooks-barnhizer
+2026,1631205,Buddy Boeheim,success,2,,https://www.salaryswish.com/players/buddy-boeheim
+2026,1643047,CJ Huntley,success,2,,https://www.salaryswish.com/players/cj-huntley
+2026,1631126,Caleb Love,success,1,,https://www.salaryswish.com/players/caleb-love
+2026,1643052,Chaney Johnson,success,2,,https://www.salaryswish.com/players/chaney-johnson
+2026,1643024,Chris Mañon,success,1,,https://www.salaryswish.com/players/chris-manon
+2026,1642959,Chris Youngblood,success,2,,https://www.salaryswish.com/players/chris-youngblood
+2026,1642935,Chucky Hepburn,success,1,,https://www.salaryswish.com/players/chucky-hepburn
+2026,1641732,Colby Jones,success,2,,https://www.salaryswish.com/players/colby-jones
+2026,1630658,Colin Castleton,success,3,,https://www.salaryswish.com/players/colin-castleton
+2026,1642504,Cormac Ryan,success,1,,https://www.salaryswish.com/players/cormac-ryan
+2026,1642938,Curtis Jones,success,1,,https://www.salaryswish.com/players/curtis-jones
+2026,1631342,Daeqwon Plowden,success,2,,https://www.salaryswish.com/players/daeqwon-plowden
+2026,1642468,Darius Brown,success,2,,https://www.salaryswish.com/players/darius-brown
+2026,1642357,David Jones Garcia,error,0,Contract history not found,https://www.salaryswish.com/players/david-jones-garcia
+2026,1631223,David Roddy,success,4,,https://www.salaryswish.com/players/david-roddy
+2026,1641809,Drew Peterson,success,1,,https://www.salaryswish.com/players/drew-peterson
+2026,1642928,Dylan Cardwell,success,1,,https://www.salaryswish.com/players/dylan-cardwell
+2026,1641989,Elijah Harkless,success,1,,https://www.salaryswish.com/players/elijah-harkless
+2026,1641801,Emanuel Miller,success,2,,https://www.salaryswish.com/players/emanuel-miller
+2026,1642402,Enrique Freeman,success,1,,https://www.salaryswish.com/players/enrique-freeman
+2026,1630679,Ethan Thompson,success,3,,https://www.salaryswish.com/players/ethan-thompson
+2026,1631127,Harrison Ingram,success,1,,https://www.salaryswish.com/players/harrison-ingram
+2026,1630621,Hunter Dickinson,success,1,,https://www.salaryswish.com/players/hunter-dickinson
+2026,1642282,Hunter Sallis,success,1,,https://www.salaryswish.com/players/hunter-sallis
+2026,1642384,Isaiah Crawford,success,1,,https://www.salaryswish.com/players/isaiah-crawford
+2026,1630587,Isaiah Livers,success,1,,https://www.salaryswish.com/players/isaiah-livers
+2026,1641815,Isaiah Stevens,success,1,,https://www.salaryswish.com/players/isaiah-stevens
+2026,1631210,Jacob Toppin,success,1,,https://www.salaryswish.com/players/jacob-toppin
+2026,1642942,Jahmai Mashack,error,0,Contract history not found,https://www.salaryswish.com/players/jahmai-mashack
+2026,1643141,Jahmyl Telfort,success,2,,https://www.salaryswish.com/players/jahmyl-telfort
+2026,1641771,Jalen Slawson,success,2,,https://www.salaryswish.com/players/jalen-slawson
+2026,1642914,Javon Small,error,0,Contract history not found,https://www.salaryswish.com/players/javon-small
+2026,1631451,Javonte Cooke,success,2,,https://www.salaryswish.com/players/javonte-cooke
+2026,1643257,Jayson Kent,error,0,Contract history not found,https://www.salaryswish.com/players/jayson-kent
+2026,1642967,John Poulakidas,success,2,,https://www.salaryswish.com/players/john-poulakidas
+2026,1630548,Johnny Juzang,success,3,,https://www.salaryswish.com/players/johnny-juzang
+2026,1642490,Josh Oduro,success,2,,https://www.salaryswish.com/players/josh-oduro
+2026,1642882,Julian Reese,success,2,,https://www.salaryswish.com/players/julian-reese
+2026,1642354,KJ Simpson,success,2,,https://www.salaryswish.com/players/k-j-simpson
+2026,1641755,Kevin McCullar Jr.,success,1,,https://www.salaryswish.com/players/kevin-mccullar-jr
+2026,1642886,Koby Brea,success,1,,https://www.salaryswish.com/players/koby-brea
+2026,1643018,LJ Cryer,success,1,,https://www.salaryswish.com/players/lj-cryer
+2026,1642950,Lachlan Olbrich,success,1,,https://www.salaryswish.com/players/lachlan-olbrich
+2026,1641778,Leaky Black,success,2,,https://www.salaryswish.com/players/leaky-black
+2026,1631247,Luke Travers,success,1,,https://www.salaryswish.com/players/luke-travers
+2026,1642502,Malevy Leons,success,1,,https://www.salaryswish.com/players/malevy-leons
+2026,1630699,MarJon Beauchamp,success,4,,https://www.salaryswish.com/players/marjon-beauchamp
+2026,1641813,Mark Sears,success,1,,https://www.salaryswish.com/players/mark-sears
+2026,1642939,Miles Kelly,success,1,,https://www.salaryswish.com/players/miles-kelly
+2026,1630619,Moussa Cisse,success,2,,https://www.salaryswish.com/players/moussa-cisse
+2026,1631466,Nate Williams,success,3,,https://www.salaryswish.com/players/nate-williams
+2026,1641807,Norchad Omier,success,2,,https://www.salaryswish.com/players/norchad-omier
+2026,1630846,Olivier Sarr,success,2,,https://www.salaryswish.com/players/olivier-sarr
+2026,1631115,Orlando Robinson,success,1,,https://www.salaryswish.com/players/orlando-robinson
+2026,1631131,Oscar Tshiebwe,success,1,,https://www.salaryswish.com/players/oscar-tshiebwe
+2026,1641790,PJ Hall,success,1,,https://www.salaryswish.com/players/pj-hall
+2026,1642362,Payton Sandfort,success,2,,https://www.salaryswish.com/players/payton-sandfort
+2026,1642484,RayJ Dennis,success,2,,https://www.salaryswish.com/players/rayj-dennis
+2026,1642434,Riley Minix,success,1,,https://www.salaryswish.com/players/riley-minix
+2026,1642911,Rocco Zikarsky,error,0,Contract history not found,https://www.salaryswish.com/players/rocco-zikarsky
+2026,1642951,Sean Pedulla,success,2,,https://www.salaryswish.com/players/sean-pedulla
+2026,1630536,Sharife Cooper,success,1,,https://www.salaryswish.com/players/sharife-cooper
+2026,1630649,Stanley Umude,success,2,,https://www.salaryswish.com/players/stanley-umude
+2026,1643007,Taelon Peter,success,1,,https://www.salaryswish.com/players/taelon-peter
+2026,1641787,Tosan Evbuomwan,success,3,,https://www.salaryswish.com/players/tosan-evbuomwan
+2026,1642280,Trentyn Flowers,success,2,,https://www.salaryswish.com/players/trentyn-flowers
+2026,1631211,Trevor Keels,success,2,,https://www.salaryswish.com/players/trevor-keels
+2026,1641725,Trey Alexander,success,1,,https://www.salaryswish.com/players/trey-alexander
+2026,1641998,Trey Jemison,success,2,,https://www.salaryswish.com/players/trey-jemison
+2026,1642400,Tristan Enaruna,success,1,,https://www.salaryswish.com/players/tristan-enaruna
+2026,1641803,Tristen Newton,success,2,,https://www.salaryswish.com/players/tristen-newton
+2026,1631102,TyTy Washington Jr.,success,4,,https://www.salaryswish.com/players/tyty-washington-jr
+2026,1630623,Tyson Etienne,success,1,,https://www.salaryswish.com/players/tyson-etienne
+2026,1642884,Vladislav Goldin,success,1,,https://www.salaryswish.com/players/vladislav-goldin
+2026,1631111,Wendell Moore Jr.,success,3,,https://www.salaryswish.com/players/wendell-moore-jr
+2026,1642530,Yuki Kawamura,success,2,,https://www.salaryswish.com/players/yuki-kawamura
+2026,1642389,Zyon Pullin,success,2,,https://www.salaryswish.com/players/zyon-pullin

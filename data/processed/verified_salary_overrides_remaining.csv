@@ -1,0 +1,11 @@
+season,player_id,name,team,annual_salary,source_url,salary_cap,salary_cap_share,low_5pct,low_10pct,verification_status
+2019,203085,Austin Rivers,WAS,12650000,https://www.salaryswish.com/players/austin-rivers,101869000,0.1241790927563832,0,0,source_reviewed
+2019,2546,Carmelo Anthony,HOU,2393887,https://www.salaryswish.com/players/carmelo-anthony,101869000,0.023499661329747026,1,1,source_reviewed
+2019,202693,Markieff Morris,WAS,8600000,https://www.salaryswish.com/players/markieff-morris,101869000,0.08442215001619727,0,1,source_reviewed
+2019,201961,Wayne Ellington,MIA,6270000,https://www.salaryswish.com/players/wayne-ellington,101869000,0.0615496372792508,0,1,source_reviewed
+2019,202083,Wesley Matthews,DAL,18622514,https://www.salaryswish.com/players/wesley-matthews,101869000,0.18280845006822488,0,0,source_reviewed
+2020,203079,Dion Waiters,MIA,12100000,https://www.salaryswish.com/players/dion-waiters,109140000,0.11086677661718893,0,0,source_reviewed
+2022,201609,Goran Dragic,TOR,19440000,https://www.salaryswish.com/players/goran-dragic,112414000,0.17293219705730603,0,0,source_reviewed
+2022,203107,Tomas Satoransky,NOP,10000000,https://www.salaryswish.com/players/tomas-satoransky,112414000,0.08895689149038376,0,1,source_reviewed
+2022,202684,Tristan Thompson,SAC,8946611,https://www.salaryswish.com/players/tristan-thompson,112414000,0.07958627039336738,0,1,source_reviewed
+2026,203937,Kyle Anderson,UTA,9219512,https://www.salaryswish.com/players/kyle-anderson,154647000,0.059616494338719794,0,1,source_reviewed
