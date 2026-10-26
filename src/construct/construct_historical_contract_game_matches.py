@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "data/raw"
 PROCESSED = ROOT / "data/processed"
 
-OUTPUT = PROCESSED / "historical_player_game_contract_matches_v2.csv"
+OUTPUT = PROCESSED / "historical_player_game_contract_matches_v5.csv"
 
 if OUTPUT.exists():
     raise FileExistsError(f"Output already exists: {OUTPUT}")
@@ -118,6 +118,8 @@ contracts.loc[
 override_paths = [
     PROCESSED / "historical_contract_date_overrides.csv",
     PROCESSED / "historical_contract_team_overrides.csv",
+    PROCESSED / "historical_contract_2026_verified_overrides.csv",
+    PROCESSED / "historical_contract_2026_additional_overrides.csv",
 ]
 
 overrides = pd.concat(
