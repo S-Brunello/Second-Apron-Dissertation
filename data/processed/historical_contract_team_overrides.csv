@@ -1,0 +1,5 @@
+season,name,team,start_date,end_date_exclusive,source_url,contract_status,end_date_basis,player_id
+2023,Julian Champagnie,SAS,2023-02-16,2023-07-01,https://www.nba.com/spurs/news/spurs-claim-julian-champagnie-off-waivers,two_way,offseason_analysis_cutoff,1630577
+2024,Jermaine Samuels Jr.,HOU,2023-08-03,2024-07-01,https://riograndevalley.gleague.nba.com/news/rockets-sign-jermaine-samuels-jr-two-way-contract,two_way,offseason_analysis_cutoff,1631257
+2024,D'Moi Hodge,LAL,2023-07-03,2024-01-06,https://www.nba.com/lakers/news/lakers-sign-dmoi-hodge-to-two-way-contract-7-3-23,two_way,documented_waiver,1641793
+2024,Theo Maledon,PHX,2023-12-17,2024-03-04,https://arizonasports.com/nba/phoenix-suns/suns-claim-pg-theo-maledon-2-way-contract,two_way,documented_waiver,1630177
