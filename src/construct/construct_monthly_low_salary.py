@@ -152,8 +152,20 @@ continuity_path = (
     PROCESSED / "team_month_continuity.csv"
 )
 
+
 if continuity_path.exists():
     continuity = pd.read_csv(continuity_path)
+
+    # Standardise historical ESPN team abbreviations
+    # without modifying the original continuity dataset.
+    TEAM_MAP = {
+        "BRK": "BKN",
+        "NOR": "NOP",
+        "PHO": "PHX",
+        "SAN": "SAS",
+    }
+
+    continuity["team"] = continuity["team"].replace(TEAM_MAP)
 
     comparison = continuity[KEYS].merge(
         monthly[KEYS],
